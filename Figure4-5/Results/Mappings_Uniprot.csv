@@ -1,0 +1,7 @@
+0,reactome_v65,reactome_pc,panther_pc,pathbank_pc,humancyc_pc,kegg_pc,pid_pc,inoh_pc,netpath_pc
+Protein,31649,26582,5342,2471,2652,1872,6584,12804,4861
+Protein with no PR,3193,0,0,0,0,0,0,0,0
+Protein with no mapping,743,2866,3014,71,387,927,175,9938,39
+ProteinReference,11808,12836,3878,1606,2568,1704,2735,2296,1507
+Uniprot mappings,27713,23716,2328,2400,2265,945,6409,2866,4822
+Unique Uniprot,11421,10973,2171,1555,2213,795,2620,1642,1485

@@ -1,0 +1,9 @@
+,reactome_v65,reactome_pc,panther_pc,pathbank_pc,humancyc_pc,kegg_pc
+BiochemicalReaction,14709,12184,2222,2022,1805,1782
+Pathway,2673,2272,295,1295,242,122
+PathwayStep,17383,14460,0,0,1104,0
+SmallMolecule,5196,3983,1936,3326,2174,1664
+Rna,654,312,0,52,51,0
+Interaction,23577,19640,5982,5291,6706,3568
+Protein,31649,26582,5342,2471,2652,1872
+Dna,1479,890,0,9,0,0

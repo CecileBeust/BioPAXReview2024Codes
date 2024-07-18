@@ -1,0 +1,41 @@
+direct_component,relations_pathway_compo_br,linked_pathway_compo_br
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12383,http://www.biopax.org/release/biopax-level3.owl#displayName,"FAM83B, (FAM83A, FAM83D) bind EGFR"
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12384,http://www.biopax.org/release/biopax-level3.owl#displayName,EGFR binds EGF ligand
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12385,http://www.biopax.org/release/biopax-level3.owl#displayName,EGFR dimerization
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12381,http://www.biopax.org/release/biopax-level3.owl#displayName,Pro-EGF is cleaved to form mature EGF
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#displayName,EGFR autophosphorylation
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12382,http://www.biopax.org/release/biopax-level3.owl#displayName,AAMP binds EGFR
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#displayName,Phosphorylation of EGFR by SRC kinase
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12383,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein29336
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12383,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein8391
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12384,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein8392
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12384,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein8391
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12385,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Complex4059
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12381,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein29333
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Complex4058
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#SmallMolecule3
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12382,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein1554
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12382,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Protein8391
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#Complex4058
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#left,http://www.reactome.org/biopax/65/48887#SmallMolecule3
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12383,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Complex13373
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12384,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Complex4059
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12385,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Complex4058
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12381,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Protein8356
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Complex4459
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#SmallMolecule4
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12382,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Complex13372
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#Complex4459
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#right,http://www.reactome.org/biopax/65/48887#SmallMolecule4
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12383,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12384,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12385,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12381,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12382,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#conversionDirection,LEFT-TO-RIGHT
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12385,http://www.biopax.org/release/biopax-level3.owl#participantStoichiometry,http://www.reactome.org/biopax/65/48887#Stoichiometry33496
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#participantStoichiometry,http://www.reactome.org/biopax/65/48887#Stoichiometry33497
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12386,http://www.biopax.org/release/biopax-level3.owl#participantStoichiometry,http://www.reactome.org/biopax/65/48887#Stoichiometry33498
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#participantStoichiometry,http://www.reactome.org/biopax/65/48887#Stoichiometry33500
+http://www.reactome.org/biopax/65/48887#BiochemicalReaction12387,http://www.biopax.org/release/biopax-level3.owl#participantStoichiometry,http://www.reactome.org/biopax/65/48887#Stoichiometry33499
