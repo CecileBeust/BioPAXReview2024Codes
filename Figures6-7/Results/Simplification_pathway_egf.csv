@@ -1,0 +1,277 @@
+reactome:Pathway2275 reactome:BiochemicalReaction12383 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:BiochemicalReaction12384 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:Pathway2277 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:BiochemicalReaction12385 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:Pathway2276 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:BiochemicalReaction12381 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:BiochemicalReaction12386 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:Pathway2280 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:BiochemicalReaction12382 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:BiochemicalReaction12387 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:Pathway2279 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:Pathway2278 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2275 reactome:PathwayStep14660 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14651 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14664 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14655 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14652 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14704 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14653 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14656 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14650 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14669 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14681 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2275 reactome:PathwayStep14654 {1: 'bp3:pathwayOrder'}
+reactome:BiochemicalReaction12383 FAM83B, (FAM83A, FAM83D) bind EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12384 EGFR binds EGF ligand {1: 'bp3:displayName'}
+reactome:Pathway2277 GRB2 events in EGFR signaling {1: 'bp3:displayName'}
+reactome:Pathway2277 reactome:BiochemicalReaction12392 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2277 reactome:BiochemicalReaction12393 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2277 reactome:BiochemicalReaction12391 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2277 reactome:PathwayStep14662 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2277 reactome:PathwayStep14661 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2277 reactome:PathwayStep14663 {1: 'bp3:pathwayOrder'}
+reactome:BiochemicalReaction12385 EGFR dimerization {1: 'bp3:displayName'}
+reactome:Pathway2276 EGFR interacts with phospholipase C-gamma {1: 'bp3:displayName'}
+reactome:Pathway2276 reactome:BiochemicalReaction12388 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2276 reactome:BiochemicalReaction12389 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2276 reactome:BiochemicalReaction12390 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2276 reactome:PathwayStep14658 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2276 reactome:PathwayStep14659 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2276 reactome:PathwayStep14657 {1: 'bp3:pathwayOrder'}
+reactome:BiochemicalReaction12381 Pro-EGF is cleaved to form mature EGF {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12386 EGFR autophosphorylation {1: 'bp3:displayName'}
+reactome:Pathway2280 EGFR downregulation {1: 'bp3:displayName'}
+reactome:Pathway2280 reactome:BiochemicalReaction12428 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12425 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12409 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12412 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12416 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12424 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12418 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12423 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12421 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12415 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12422 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12430 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12420 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12417 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12427 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12414 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12426 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12410 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12413 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12429 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12419 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:BiochemicalReaction12411 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2280 reactome:PathwayStep14696 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14686 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14683 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14702 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14682 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14684 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14692 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14693 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14689 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14698 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14703 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14697 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14685 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14694 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14699 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14691 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14701 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14688 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14695 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14690 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14687 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2280 reactome:PathwayStep14700 {1: 'bp3:pathwayOrder'}
+reactome:BiochemicalReaction12382 AAMP binds EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12387 Phosphorylation of EGFR by SRC kinase {1: 'bp3:displayName'}
+reactome:Pathway2279 GAB1 signalosome {1: 'bp3:displayName'}
+reactome:Pathway2279 reactome:BiochemicalReaction12399 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12407 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12403 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12398 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12408 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12402 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12406 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12401 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12405 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12404 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:BiochemicalReaction12400 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2279 reactome:PathwayStep14680 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14677 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14672 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14670 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14676 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14679 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14675 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14671 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14673 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14678 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2279 reactome:PathwayStep14674 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2278 SHC1 events in EGFR signaling {1: 'bp3:displayName'}
+reactome:Pathway2278 reactome:BiochemicalReaction12395 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2278 reactome:BiochemicalReaction12394 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2278 reactome:BiochemicalReaction12397 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2278 reactome:BiochemicalReaction12396 {1: 'bp3:pathwayComponent'}
+reactome:Pathway2278 reactome:PathwayStep14667 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2278 reactome:PathwayStep14668 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2278 reactome:PathwayStep14665 {1: 'bp3:pathwayOrder'}
+reactome:Pathway2278 reactome:PathwayStep14666 {1: 'bp3:pathwayOrder'}
+reactome:BiochemicalReaction12392 GRB2:SOS1 complex binds to EGF:EGFR complex {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12393 SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12391 GRB2-1 binds SOS1 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12388 Phospholipase C-gamma1 binds to the activated EGF receptor {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12389 EGFR activates PLC-gamma1 by phosphorylation {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12390 Active PLC-gamma1 dissociates from EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12428 EGFR binds EPS15, EPN1, EPS15L1 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12425 CBL-mediated ubiquitination of CIN85 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12409 Binding of CBL to EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12412 Ubiquitination of stimulated EGFR (CBL) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12416 Ubiquitination of stimulated EGFR (CBL:GRB2) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12424 CBL ubiquitinates Sprouty {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12418 CDC42:GTP binds CBL:Beta-Pix {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12423 EGFR non-clathrin mediated endocytosis {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12421 CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12415 Phosphorylation of CBL (EGFR:GRB2:CBL) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12422 Assembly of EGFR complex in clathrin-coated vesicles {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12430 PTPN3 dephosphorylates EPS15 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12420 CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12417 Sprouty lures CBL away from EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12427 PTPN12 dephosphorylates EGFR at Y1172 (Y1148) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12414 Localization of CBL:GRB2 to the membrane {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12426 Sprouty sequesters CBL away from active EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12410 Phosphorylation of CBL (EGFR:CBL) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12413 CBL binds to GRB2 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12429 EGFR phosphorylates EPS15 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12419 Beta-Pix pushes CIN85 away from CBL {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12411 CBL binds and ubiquitinates phosphorylated Sprouty {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12399 GRB2:GAB1 binds to phosphorylated EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12407 Dephosphorylation of PAG by SHP2 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12403 PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12398 Binding of GRB2 to GAB1 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12408 Sustained activation of SRC kinase by SHP2 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12402 PI3K binds to EGF:EGFR:GRB2:GAB1 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12406 SHP2 dephosphorylates Tyr 992 on EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12401 GAB1 phosphorylation by EGFR kinase {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12405 Dephosphorylation of Gab1 by SHP2 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12404 Activation of SHP2 through the binding to phospho-Gab1 {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12400 GAB1 binds phosphatidylinositol-3,4,5-trisphosphate {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12395 SHC1 phosphorylation by phosphorylated EGFR {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12394 SHC1 binds to the phosphorylated EGF receptor:ligand complex {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12397 SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1) {1: 'bp3:displayName'}
+reactome:BiochemicalReaction12396 GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR {1: 'bp3:displayName'}
+reactome:PathwayStep14662 reactome:BiochemicalReaction12392 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14662 reactome:PathwayStep16677 {1: 'bp3:nextStep'}
+reactome:PathwayStep14662 reactome:PathwayStep14663 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:BiochemicalReaction12391 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14661 reactome:PathwayStep14667 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:PathwayStep15089 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:PathwayStep3294 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:PathwayStep14662 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:PathwayStep15106 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:PathwayStep14913 {1: 'bp3:nextStep'}
+reactome:PathwayStep14661 reactome:PathwayStep15391 {1: 'bp3:nextStep'}
+reactome:PathwayStep14663 reactome:BiochemicalReaction12393 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14658 reactome:BiochemicalReaction12389 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14658 reactome:PathwayStep14659 {1: 'bp3:nextStep'}
+reactome:PathwayStep14659 reactome:BiochemicalReaction12390 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14659 reactome:PathwayStep2747 {1: 'bp3:nextStep'}
+reactome:PathwayStep14657 reactome:BiochemicalReaction12388 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14657 reactome:PathwayStep14658 {1: 'bp3:nextStep'}
+reactome:PathwayStep14696 reactome:BiochemicalReaction12423 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14696 reactome:PathwayStep14698 {1: 'bp3:nextStep'}
+reactome:PathwayStep14696 reactome:PathwayStep14699 {1: 'bp3:nextStep'}
+reactome:PathwayStep14686 reactome:BiochemicalReaction12413 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14686 reactome:PathwayStep3291 {1: 'bp3:nextStep'}
+reactome:PathwayStep14686 reactome:PathwayStep14687 {1: 'bp3:nextStep'}
+reactome:PathwayStep14683 reactome:BiochemicalReaction12410 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14683 reactome:PathwayStep14684 {1: 'bp3:nextStep'}
+reactome:PathwayStep14683 reactome:PathwayStep14685 {1: 'bp3:nextStep'}
+reactome:PathwayStep14702 reactome:BiochemicalReaction12429 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14702 reactome:PathwayStep14703 {1: 'bp3:nextStep'}
+reactome:PathwayStep14682 reactome:BiochemicalReaction12409 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14682 reactome:PathwayStep14683 {1: 'bp3:nextStep'}
+reactome:PathwayStep14684 reactome:BiochemicalReaction12411 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14692 reactome:BiochemicalReaction12419 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14692 reactome:PathwayStep14693 {1: 'bp3:nextStep'}
+reactome:PathwayStep14693 reactome:BiochemicalReaction12420 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14693 reactome:PathwayStep14694 {1: 'bp3:nextStep'}
+reactome:PathwayStep14689 reactome:BiochemicalReaction12416 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14698 reactome:BiochemicalReaction12425 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14703 reactome:BiochemicalReaction12430 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14697 reactome:BiochemicalReaction12424 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14685 reactome:BiochemicalReaction12412 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14694 reactome:BiochemicalReaction12421 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14699 reactome:BiochemicalReaction12426 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14691 reactome:BiochemicalReaction12418 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14701 reactome:BiochemicalReaction12428 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14701 reactome:PathwayStep14702 {1: 'bp3:nextStep'}
+reactome:PathwayStep14688 reactome:BiochemicalReaction12415 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14688 reactome:PathwayStep14689 {1: 'bp3:nextStep'}
+reactome:PathwayStep14695 reactome:BiochemicalReaction12422 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14695 reactome:PathwayStep14701 {1: 'bp3:nextStep'}
+reactome:PathwayStep14690 reactome:BiochemicalReaction12417 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14687 reactome:BiochemicalReaction12414 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14687 reactome:PathwayStep14688 {1: 'bp3:nextStep'}
+reactome:PathwayStep14700 reactome:BiochemicalReaction12427 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14680 reactome:BiochemicalReaction12408 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14677 reactome:BiochemicalReaction12405 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14672 reactome:BiochemicalReaction12400 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14672 reactome:PathwayStep14671 {1: 'bp3:nextStep'}
+reactome:PathwayStep14670 reactome:BiochemicalReaction12398 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14670 reactome:PathwayStep14739 {1: 'bp3:nextStep'}
+reactome:PathwayStep14670 reactome:PathwayStep14671 {1: 'bp3:nextStep'}
+reactome:PathwayStep14676 reactome:BiochemicalReaction12404 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14676 reactome:PathwayStep14677 {1: 'bp3:nextStep'}
+reactome:PathwayStep14676 reactome:PathwayStep14679 {1: 'bp3:nextStep'}
+reactome:PathwayStep14676 reactome:PathwayStep14678 {1: 'bp3:nextStep'}
+reactome:PathwayStep14679 reactome:BiochemicalReaction12407 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14679 reactome:PathwayStep14680 {1: 'bp3:nextStep'}
+reactome:PathwayStep14675 reactome:BiochemicalReaction12403 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14675 reactome:PathwayStep14672 {1: 'bp3:nextStep'}
+reactome:PathwayStep14671 reactome:BiochemicalReaction12399 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14671 reactome:PathwayStep14673 {1: 'bp3:nextStep'}
+reactome:PathwayStep14673 reactome:BiochemicalReaction12401 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14673 reactome:PathwayStep14676 {1: 'bp3:nextStep'}
+reactome:PathwayStep14673 reactome:PathwayStep14674 {1: 'bp3:nextStep'}
+reactome:PathwayStep14678 reactome:BiochemicalReaction12406 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14674 reactome:BiochemicalReaction12402 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14674 reactome:PathwayStep14675 {1: 'bp3:nextStep'}
+reactome:PathwayStep14674 reactome:PathwayStep16785 {1: 'bp3:nextStep'}
+reactome:PathwayStep14667 reactome:BiochemicalReaction12396 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14667 reactome:PathwayStep14668 {1: 'bp3:nextStep'}
+reactome:PathwayStep14667 reactome:PathwayStep16677 {1: 'bp3:nextStep'}
+reactome:PathwayStep14668 reactome:BiochemicalReaction12397 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14665 reactome:BiochemicalReaction12394 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14665 reactome:PathwayStep14666 {1: 'bp3:nextStep'}
+reactome:PathwayStep14666 reactome:BiochemicalReaction12395 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14666 reactome:PathwayStep14667 {1: 'bp3:nextStep'}
+reactome:PathwayStep14660 reactome:Pathway2276 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14651 reactome:BiochemicalReaction12382 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14664 reactome:Pathway2277 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14655 reactome:BiochemicalReaction12386 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14655 reactome:PathwayStep14682 {1: 'bp3:nextStep'}
+reactome:PathwayStep14655 reactome:PathwayStep16098 {1: 'bp3:nextStep'}
+reactome:PathwayStep14655 reactome:PathwayStep14662 {1: 'bp3:nextStep'}
+reactome:PathwayStep14655 reactome:PathwayStep14671 {1: 'bp3:nextStep'}
+reactome:PathwayStep14655 reactome:PathwayStep14665 {1: 'bp3:nextStep'}
+reactome:PathwayStep14655 reactome:PathwayStep16568 {1: 'bp3:nextStep'}
+reactome:PathwayStep14652 reactome:BiochemicalReaction12383 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14704 reactome:Pathway2280 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14653 reactome:BiochemicalReaction12384 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14653 reactome:PathwayStep15275 {1: 'bp3:nextStep'}
+reactome:PathwayStep14653 reactome:PathwayStep15332 {1: 'bp3:nextStep'}
+reactome:PathwayStep14653 reactome:PathwayStep14654 {1: 'bp3:nextStep'}
+reactome:PathwayStep14656 reactome:BiochemicalReaction12387 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14656 reactome:PathwayStep14662 {1: 'bp3:nextStep'}
+reactome:PathwayStep14656 reactome:PathwayStep14657 {1: 'bp3:nextStep'}
+reactome:PathwayStep14650 reactome:BiochemicalReaction12381 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14650 reactome:PathwayStep14653 {1: 'bp3:nextStep'}
+reactome:PathwayStep14669 reactome:Pathway2278 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14681 reactome:Pathway2279 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14654 reactome:BiochemicalReaction12385 {1: 'bp3:stepProcess'}
+reactome:PathwayStep14654 reactome:PathwayStep14655 {1: 'bp3:nextStep'}
+reactome:PathwayStep14654 reactome:PathwayStep14656 {1: 'bp3:nextStep'}
