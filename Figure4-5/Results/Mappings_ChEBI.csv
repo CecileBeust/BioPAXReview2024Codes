@@ -1,4 +1,4 @@
-0,reactome_v87,reactome_pc,panther_pc,pathbank_pc,humancyc_pc,kegg_pc,pid_pc,inoh_pc,netpath_pc
+0,reactome_v87,reactome_pc,panther_pathway_pc,pathbank_pc,humancyc_pc,kegg_pathway_pc,pid_pc,inoh_pc,netpath_pc
 ChEBI mappings,3645,3522,657,3012,1705,1465,113,3423,0
 SmallMolecule,5196,3983,1936,3326,2174,1664,188,4273,0
 SmallMoleculeReference,2956,2289,1458,1776,1925,1644,123,529,0
