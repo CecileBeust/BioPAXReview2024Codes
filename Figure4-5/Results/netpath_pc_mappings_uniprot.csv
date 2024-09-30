@@ -1,7 +1,7 @@
 metric,count
-Protein,4861
+Protein,4860
 Protein with no PR,0
-Protein with no mapping,39
-ProteinReference,1507
-Uniprot mappings,4822
-Unique Uniprot,1485
+Protein with no mapping,17
+ProteinReference,2201
+Uniprot mappings,4843
+Unique Uniprot,1489
