@@ -1,7 +1,7 @@
-0,reactome_v87,reactome_pc,panther_pathway_pc,pathbank_pc,humancyc_pc,kegg_pathway_pc,pid_pc,inoh_pc,netpath_pc
-Protein,31649,26582,5342,2471,2652,1872,6584,12804,4861
-Protein with no PR,3193,0,0,0,0,0,0,0,0
-Protein with no mapping,743,2866,3014,71,387,927,175,9938,39
-ProteinReference,11808,12836,3878,1606,2568,1704,2735,2296,1507
-Uniprot mappings,27713,23716,2328,2400,2265,945,6409,2866,4822
-Unique Uniprot,11421,10973,2171,1555,2213,795,2620,1642,1485
+0,reactome_v87,panther_standalone_biopax,reactome_pc,panther_pathway_pc,pathbank_pc,humancyc_pc,kegg_pathway_pc,pid_pc,inoh_pc,netpath_pc
+Protein,31859,6097.0,31732,6097.0,11253,2932,1872,6584,12804.0,4860
+Protein with no PR,3217,634.0,3203,634.0,0,0,0,0,0.0,0
+Protein with no mapping,755,,754,,376,254,897,169,,17
+ProteinReference,11905,21895.0,11852,22337.0,8002,2850,1872,3399,1337.0,2201
+Uniprot mappings,27887,5463.0,27775,5463.0,10877,2678,975,6415,12764.0,4843
+Unique Uniprot,11512,19440.0,11460,19882.0,7629,2640,821,2631,3398.0,1489

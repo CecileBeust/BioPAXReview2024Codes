@@ -1,7 +1,7 @@
-0,reactome_v87,reactome_pc,panther_pathway_pc,pathbank_pc,humancyc_pc,kegg_pathway_pc,pid_pc,inoh_pc,netpath_pc
-ChEBI mappings,3645,3522,657,3012,1705,1465,113,3423,0
-SmallMolecule,5196,3983,1936,3326,2174,1664,188,4273,0
-SmallMoleculeReference,2956,2289,1458,1776,1925,1644,123,529,0
-Smnomapping,1045,461,1279,314,469,199,75,850,0
-Unique ChEBI,2000,1960,179,1601,1473,1445,80,439,0
-noSMR,506,0,0,0,0,0,0,0,0
+0,reactome_v87,panther_standalone_biopax,reactome_pc,panther_pathway_pc,pathbank_pc,humancyc_pc,kegg_pathway_pc,pid_pc,inoh_pc,netpath_pc
+ChEBI mappings,3673,1820,3667,1820,4586,2084,1109,0,0,0
+SmallMolecule,5229,2233,5223,2233,5878,2744,1664,188,4273,0
+SmallMoleculeReference,2965,358,2964,358,3016,2404,1664,130,529,0
+Smnomapping,1046,0,1046,0,1292,660,555,188,4273,0
+Unique ChEBI,2008,358,2007,358,2116,1765,1163,0,0,0
+noSMR,510,413,510,413,0,0,0,0,0,0
