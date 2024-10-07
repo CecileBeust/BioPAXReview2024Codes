@@ -1,0 +1,9 @@
+class_of_interest,nb_instances
+http://www.biopax.org/release/biopax-level3.owl#BiochemicalReaction,15152
+http://www.biopax.org/release/biopax-level3.owl#Pathway,2742
+http://www.biopax.org/release/biopax-level3.owl#PathwayStep,17893
+http://www.biopax.org/release/biopax-level3.owl#SmallMolecule,5246
+http://www.biopax.org/release/biopax-level3.owl#Rna,662
+http://www.biopax.org/release/biopax-level3.owl#Interaction,24424
+http://www.biopax.org/release/biopax-level3.owl#Protein,32019
+http://www.biopax.org/release/biopax-level3.owl#Dna,1542
