@@ -1,0 +1,1899 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="1000"
+   height="550"
+   viewBox="0 0 1000 550"
+   id="svg192"
+   sodipodi:docname="Abstraction_collapse_egf_pathway_v3.tsv.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs192" />
+  <sodipodi:namedview
+     id="namedview192"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.99065421"
+     inkscape:cx="486.54717"
+     inkscape:cy="277.08962"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g153" />
+  <title
+     id="title1" />
+  <desc
+     id="desc1">Creator: Creator: Cytoscape via FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Source: </desc>
+  <g
+     stroke-dashoffset="0"
+     stroke-linejoin="miter"
+     stroke-dasharray="none"
+     stroke-width="1"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     id="g192">
+    <!-- drawing style -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g3">
+      <g
+         stroke-opacity="1"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g2">
+        <path
+           d="m 80.221558,-110.91323 -182.782708,0.45172"
+           id="path2" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202755,-0.00252148,0.00252148,1.0202755,746.27153,186.82692)"
+       id="g5">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g4">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path3" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-7.1419287,0.01765033,-0.01765033,-7.1419287,556.21128,187.29663)"
+       id="g7">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g6">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path5" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g9">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g8">
+        <path
+           d="M -237.72932,-5.0742421 -130.60455,177.06202"
+           id="path7" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.51725086,-0.87944303,0.87944303,-0.51725086,421.87304,294.81218)"
+       id="g11">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g10">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path9" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(3.620756,6.1561012,-6.1561012,3.620756,532.98054,483.71996)"
+       id="g13">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g12">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path11" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g15">
+      <g
+         stroke-opacity="1"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g14">
+        <path
+           d="m -452.84595,-14.457664 192.77984,-1.284517"
+           id="path13" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-1.020256,0.0067981,-0.0067981,-1.020256,202.39415,285.23847)"
+       id="g17">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g16">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path15" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(7.141792,-0.04758669,0.04758669,7.141792,402.65419,283.90412)"
+       id="g19">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g18">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path17" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g21">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g20">
+        <path
+           d="M -233.40993,-9.3151522 -15.954857,124.0089"
+           id="path19" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.86981039,-0.53329015,0.53329015,-0.86981039,426.28003,290.48527)"
+       id="g23">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g22">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path21" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(6.0886728,3.733031,-3.733031,6.0886728,651.18913,428.37947)"
+       id="g25">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g24">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path23" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g27">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g26">
+        <path
+           d="m -243.99329,-3.3490024 0.72243,123.3997324"
+           id="path25" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.005973,-1.0202612,1.0202612,-0.005973,415.48205,296.5724)"
+       id="g29">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g28">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path27" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.04181103,7.1418281,-7.1418281,0.04181103,416.24004,426.04543)"
+       id="g31">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g30">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path29" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g33">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g32">
+        <path
+           d="M -232.21507,-11.874526 179.93747,126.33736"
+           id="path31" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.96733693,-0.32438829,0.32438829,-0.96733693,427.49911,287.87399)"
+       id="g35">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g34">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path33" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(6.7713585,2.270718,-2.270718,6.7713585,851.39523,430.02398)"
+       id="g37">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g36">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path35" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g39">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g38">
+        <path
+           d="M -253.21817,-7.3343143 -396.12246,125.61949"
+           id="path37" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.74698344,-0.69497067,0.69497067,0.74698344,406.0701,292.50628)"
+       id="g41">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g40">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path39" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-5.2288841,4.8647947,-4.8647947,-5.2288841,257.65347,430.5886)"
+       id="g43">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g42">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path41" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g45">
+      <g
+         stroke-opacity="1"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g44">
+        <path
+           d="m -128.54411,-102.89938 -102.74408,77.421671"
+           id="path43" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.81483666,-0.61401118,0.61401118,0.81483666,533.27238,195.00328)"
+       id="g47">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g46">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path45" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-5.7038566,4.2980782,-4.2980782,-5.7038566,425.59286,276.144)"
+       id="g49">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g48">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path47" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g51">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g50">
+        <path
+           d="M -255.29869,-10.363609 -542.72809,130.00053"
+           id="path49" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.91679976,-0.44771276,0.44771276,0.91679976,403.94739,289.41555)"
+       id="g53">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g52">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path51" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-6.4175983,3.1339893,-3.1339893,-6.4175983,107.48052,434.19308)"
+       id="g55">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g54">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path53" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g57">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g56">
+        <path
+           d="M -8.9452744,-2.2526197 -114.38305,177.06112"
+           id="path55" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.51715277,-0.87950072,0.87950072,0.51715277,655.29652,297.69102)"
+       id="g59">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g58">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path57" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-3.6200694,6.156505,-6.156505,-3.6200694,545.91058,483.71925)"
+       id="g61">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g60">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path59" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g63">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g62">
+        <path
+           d="m -13.554338,137.84151 -94.551692,46.0109"
+           id="path61" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.91742158,-0.44643718,0.44643718,0.91742158,650.59399,440.62606)"
+       id="g65">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g64">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path63" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-6.421951,3.1250603,-3.1250603,-6.421951,550.91394,489.13253)"
+       id="g67">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g66">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path65" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g69">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g68">
+        <path
+           d="M -13.234591,-6.4434781 -229.57687,127.62243"
+           id="path67" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.86725658,-0.53743329,0.53743329,0.86725658,650.92022,293.41518)"
+       id="g71">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g70">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path69" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-6.070796,3.762033,-3.762033,-6.070796,427.15541,432.08078)"
+       id="g73">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g72">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path71" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g75">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g74">
+        <path
+           d="m -131.0611,-110.4285 -180.14621,-0.0942"
+           id="path73" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202785,5.3330606e-4,-5.3330606e-4,1.0202785,530.70436,187.32148)"
+       id="g77">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g76">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path75" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-7.1419495,-0.00373314,0.00373314,-7.1419495,343.33405,187.22354)"
+       id="g79">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g78">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path77" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g81">
+      <g
+         stroke-opacity="1"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g80">
+        <path
+           d="m -108.98957,-102.38232 94.128664,79.063708"
+           id="path79" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.78125017,-0.6562139,0.6562139,-0.78125017,553.22346,195.53082)"
+       id="g83">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g82">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path81" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(5.4687512,4.5934973,-4.5934973,5.4687512,651.9953,278.49459)"
+       id="g85">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g84">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path83" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g87">
+      <g
+         stroke-opacity="1"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g86">
+        <path
+           d="m -118.3521,-170.64522 -0.15347,44.22335"
+           id="path85" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.00354059,-1.0202725,1.0202725,0.00354059,543.67107,125.88365)"
+       id="g89">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g88">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path87" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.02478411,7.1419075,-7.1419075,-0.02478411,543.5021,174.57474)"
+       id="g91">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g90">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path89" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g93">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g92">
+        <path
+           d="m -130.74615,-181.89587 -181.84639,18.26533"
+           id="path91" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0151705,-0.10196754,0.10196754,1.0151705,531.02568,114.40484)"
+       id="g95">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g94">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path93" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-7.1061934,0.7137728,-0.7137728,-7.1061934,341.93861,133.39746)"
+       id="g97">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g96">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path95" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g99">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g98">
+        <path
+           d="m -130.66222,-185.05338 -181.9757,-28.1097"
+           id="path97" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0083199,0.15575472,-0.15575472,1.0083199,531.11132,111.18331)"
+       id="g101">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g100">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path99" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-7.0582391,-1.0902831,1.0902831,-7.0582391,341.91628,81.958439)"
+       id="g103">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g102">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path101" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g105">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g104">
+        <path
+           d="M -14.336273,-8.7001438 -392.82617,130.97851"
+           id="path103" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.9571785,-0.35323904,0.35323904,0.9571785,649.7962,291.11275)"
+       id="g107">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g106">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path105" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-6.7002495,2.4726733,-2.4726733,-6.7002495,260.28092,434.86024)"
+       id="g109">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g108">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path107" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g111">
+      <g
+         stroke-opacity="1"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g110">
+        <path
+           d="m -118.24562,-241.70314 -0.0459,42.558"
+           id="path109" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.00109956,-1.020278,1.020278,0.00109956,543.77971,53.384768)"
+       id="g113">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g112">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path111" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.0076969,7.1419463,-7.1419463,-0.0076969,543.72907,100.37676)"
+       id="g115">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g114">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path113" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g117">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g116">
+        <path
+           d="M 7.4838414,-5.65376 182.18796,121.98554"
+           id="path115" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.82382927,-0.60189189,0.60189189,-0.82382927,672.0588,294.22091)"
+       id="g119">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g118">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path117" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(5.7668049,4.2132432,-4.2132432,5.7668049,853.18908,426.55518)"
+       id="g121">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g120">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path119" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g123">
+      <g
+         stroke-opacity="1"
+         stroke-dasharray="4, 2"
+         fill="none"
+         stroke="#ee0000"
+         stroke-linecap="butt"
+         id="g122">
+        <path
+           d="M -2.5840001,-0.527897 -2.3469446,116.37199"
+           id="path121" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(-0.00206897,-1.0202765,1.0202765,-0.00206897,661.78679,299.45072)"
+       id="g125">
+      <g
+         fill="#ee0000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g124">
+        <path
+           d="M 0,0.5 C 0.27614237,0.5 0.5,0.27614237 0.5,0 0.5,-0.27614237 0.27614237,-0.5 0,-0.5 Z"
+           id="path123" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(0.01448278,7.1419358,-7.1419358,0.01448278,662.0359,422.29214)"
+       id="g127">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g126">
+        <path
+           d="M -0.5,-0.5 0,0 -0.5,0.5 Z"
+           id="path125" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g129">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g128">
+        <path
+           d="m 105.22152,-110.94412 c 0,6.90356 -5.596441,12.499998 -12.500001,12.499998 -6.903559,0 -12.5,-5.596438 -12.5,-12.499998 0,-6.90356 5.596441,-12.5 12.5,-12.5 6.90356,0 12.500001,5.59644 12.500001,12.5 z"
+           id="path127" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,672.12278,183.80598)"
+       id="g130">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text129">reactome:BiochemicalReaction5441</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,715.25506,197.70217)"
+       id="g131">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text130">AAMP binds EGFR</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g133">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g132">
+        <path
+           d="m -231.56645,-15.848789 c 0,6.9035592 -5.59645,12.4999998 -12.50001,12.4999998 -6.90356,0 -12.50001,-5.5964406 -12.50001,-12.4999998 0,-6.90356 5.59645,-12.5 12.50001,-12.5 6.90356,0 12.50001,5.59644 12.50001,12.5 z"
+           id="path131" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,314.80796,280.82972)"
+       id="g134">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text133">reactome:BiochemicalReaction5445 EGFR</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,363.65892,294.72591)"
+       id="g135">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text134">autophosphorylation</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g137">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g136">
+        <path
+           d="m -109.99303,190.85344 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path135" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,444.84092,491.72359)"
+       id="g138">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text137">reactome:Pathway1392 SHC1 events in</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,502.58863,505.61978)"
+       id="g139">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text138">EGFR signaling</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g141">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g140">
+        <path
+           d="m -230.67719,136.05046 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90355,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59645,-12.50001 12.5,-12.50001 6.90356,0 12.5,5.59645 12.5,12.50001 z"
+           id="path139" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,344.96667,435.80928)"
+       id="g142">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text141">reactome:Pathway1394 EGFR</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,376.75345,449.70547)"
+       id="g143">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text142">downregulation</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g145">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g144">
+        <path
+           d="m -106.0611,-110.42197 c 0,6.90356 -5.59644,12.500003 -12.5,12.500003 -6.90356,0 -12.5,-5.596443 -12.5,-12.500003 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path143" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,453.90293,184.33873)"
+       id="g146">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text145">reactome:BiochemicalReaction5444</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,498.25442,198.23492)"
+       id="g147">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text146">EGFR dimerization</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g149">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g148">
+        <path
+           d="m -316.01242,-162.03148 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path147" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,241.01536,131.68264)"
+       id="g150">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text149">reactome:Pathway1513 Signaling by</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,312.36338,145.57883)"
+       id="g151">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text150">ERBB4</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g153">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g152">
+        <path
+           d="m -315.95038,-215.60562 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path151" />
+      </g>
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g152-7"
+         transform="translate(-291.87933,-32.882827)">
+        <path
+           d="m -315.95038,-215.60562 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path151-5" />
+      </g>
+      <!-- drawing style -->
+      <text
+         xml:space="preserve"
+         style="font-size:12.5456px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#020500;stroke-width:0.490062"
+         x="-632.01385"
+         y="-272.86868"
+         id="text192"><tspan
+           sodipodi:role="line"
+           id="tspan192"
+           style="stroke-width:0.490062"
+           x="-632.01385"
+           y="-272.86868">BioPAX classes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.5456px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#020500;stroke-width:0.490062"
+         x="-599.58234"
+         y="-246.04655"
+         id="text192-3"><tspan
+           sodipodi:role="line"
+           id="tspan192-5"
+           style="stroke-width:0.490062"
+           x="-599.58234"
+           y="-246.04655">Pathway</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.5456px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#020500;stroke-width:0.490062"
+         x="-600.83789"
+         y="-211.57281"
+         id="text192-6"><tspan
+           sodipodi:role="line"
+           id="tspan192-2"
+           style="stroke-width:0.490062"
+           x="-600.83789"
+           y="-211.57281">BiochemicalReaction</tspan></text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,241.07866,77.022091)"
+       id="g154">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text153">reactome:Pathway1502 Signaling by</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,312.42668,90.918281)"
+       id="g155">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text154">ERBB2</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g157">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g156">
+        <path
+           d="m -314.70731,-110.53102 c 0,6.90356 -5.59644,12.499999 -12.5,12.499999 -6.90356,0 -12.5,-5.596439 -12.5,-12.499999 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path155" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,245.15271,184.22746)"
+       id="g158">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text157">reactome:Pathway512 Inhibition of</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,248.81551,198.12365)"
+       id="g159">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text158">Signaling by Overexpressed EGFR</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g161">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g160">
+        <path
+           d="m -544.60535,137.02155 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path159" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,37.043346,436.80006)"
+       id="g162">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text161">reactome:Pathway1675</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,16.780635,450.69625)"
+       id="g163">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text162">Extra-nuclear estrogen signaling</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g165">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g164">
+        <path
+           d="m -395.33664,136.51801 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path163" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,176.13151,436.28631)"
+       id="g166">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text165">reactome:Pathway1393 GAB1</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,216.49882,450.1825)"
+       id="g167">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text166">signalosome</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g169">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g168">
+        <path
+           d="m -105.80872,-183.14514 c 0,6.90356 -5.59645,12.5 -12.50001,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.50001,5.59644 12.50001,12.5 z"
+           id="path167" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,454.16041,110.14083)"
+       id="g170">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text169">reactome:BiochemicalReaction5443</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,488.73254,124.03702)"
+       id="g171">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text170">EGFR binds EGF ligand</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g173">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g172">
+        <path
+           d="m -105.73215,-254.20315 c 0,6.90357 -5.59644,12.50001 -12.5,12.50001 -6.90356,0 -12.5,-5.59644 -12.5,-12.50001 0,-6.90356 5.59644,-12.50001 12.5,-12.50001 6.90356,0 12.5,5.59645 12.5,12.50001 z"
+           id="path171" />
+      </g>
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g172-3"
+         transform="translate(-502.32876,37.715324)">
+        <path
+           d="m -105.73215,-254.20315 c 0,6.90357 -5.59644,12.50001 -12.5,12.50001 -6.90356,0 -12.5,-5.59644 -12.5,-12.50001 0,-6.90356 5.59644,-12.50001 12.5,-12.50001 6.90356,0 12.5,5.59645 12.5,12.50001 z"
+           id="path171-6" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,456.89126,37.641852)"
+       id="g174">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text173">reactome:BiochemicalReaction5440</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,450.06565,51.538042)"
+       id="g175">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text174">Pro-EGF is cleaved to form mature EGF</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g177">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g176">
+        <path
+           d="m 207.60724,131.42441 c 0,6.90356 -5.59644,12.5 -12.5,12.5 -6.90356,0 -12.5,-5.59644 -12.5,-12.5 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path175" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,769.92235,431.08942)"
+       id="g178">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text177">reactome:Pathway1390 EGFR interacts</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,790.77176,444.98561)"
+       id="g179">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text178">with phospholipase C-gamma</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g181">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g180">
+        <path
+           d="m 9.8906517,-13.027872 c 0,6.9035593 -5.5964406,12.49999991 -12.5,12.49999991 -6.9035594,0 -12.4999997,-5.59644061 -12.4999997,-12.49999991 0,-6.903559 5.5964403,-12.5 12.4999997,-12.5 6.9035594,0 12.5,5.596441 12.5,12.5 z"
+           id="path179" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,574.85873,283.70785)"
+       id="g182">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text181">reactome:BiochemicalReaction5446</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,566.84962,297.60403)"
+       id="g183">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text182">Phosphorylation of EGFR by SRC kinase</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g185">
+      <g
+         fill="#c80000"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g184">
+        <path
+           d="m 10.185501,132.37195 c 0,6.90356 -5.5964405,12.5 -12.4999999,12.5 -6.9035594,0 -12.5000001,-5.59644 -12.5000001,-12.5 0,-6.90356 5.5964407,-12.49999 12.5000001,-12.49999 6.9035594,0 12.4999999,5.59643 12.4999999,12.49999 z"
+           id="path183" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,567.05858,432.05617)"
+       id="g186">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text185">reactome:Pathway1391 GRB2 events in</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,625.20422,445.95236)"
+       id="g187">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text186">EGFR signaling</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,664.42319,299.98932)"
+       id="g189">
+      <g
+         fill="#2ca02c"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g188">
+        <path
+           d="m -452.84567,-14.374376 c 0,6.9035591 -5.59644,12.4999997 -12.5,12.4999997 -6.90356,0 -12.5,-5.5964406 -12.5,-12.4999997 0,-6.90356 5.59644,-12.5 12.5,-12.5 6.90356,0 12.5,5.59644 12.5,12.5 z"
+           id="path187" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,102.73874,282.33404)"
+       id="g190">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text189">reactome:BiochemicalReaction5442</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.0202786,0,0,1.0202786,94.688763,296.23022)"
+       id="g191">
+      <text
+         font-weight="normal"
+         font-size="10px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#333333"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text190">FAM83B, (FAM83A, FAM83D) bind EGFR</text>
+    </g>
+    <!-- transform -->
+  </g>
+  <!-- default stroke -->
+</svg>
+<!-- bounding box -->
+

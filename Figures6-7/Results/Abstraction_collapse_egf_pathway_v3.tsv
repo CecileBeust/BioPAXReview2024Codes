@@ -1,36 +1,44 @@
 subject	predicate	object	new_relation
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12383	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12384	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2277	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12385	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2276	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12381	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12386	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2280	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12382	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12387	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2279	
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2278	
-reactome:BiochemicalReaction12386	http://abstraction/NextStepPathway/	reactome:Pathway2277	
-reactome:BiochemicalReaction12387	http://abstraction/NextStepPathway/	reactome:Pathway2277	
-reactome:BiochemicalReaction12387	http://abstraction/NextStepPathway/	reactome:Pathway2276	
-reactome:BiochemicalReaction12386	http://abstraction/NextStepPathway/	reactome:Pathway2280	
-reactome:BiochemicalReaction12386	http://abstraction/NextStepPathway/	reactome:Pathway2279	
-reactome:BiochemicalReaction12386	http://abstraction/NextStepPathway/	reactome:Pathway2278	
-reactome:BiochemicalReaction12385	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction12386	
-reactome:BiochemicalReaction12384	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction12385	
-reactome:BiochemicalReaction12381	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction12384	
-reactome:BiochemicalReaction12385	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction12387	
-reactome:BiochemicalReaction12383	bp3:displayName	FAM83B, (FAM83A, FAM83D) bind EGFR	
-reactome:BiochemicalReaction12384	bp3:displayName	EGFR binds EGF ligand	
-reactome:BiochemicalReaction12385	bp3:displayName	EGFR dimerization	
-reactome:BiochemicalReaction12381	bp3:displayName	Pro-EGF is cleaved to form mature EGF	
-reactome:BiochemicalReaction12386	bp3:displayName	EGFR autophosphorylation	
-reactome:BiochemicalReaction12382	bp3:displayName	AAMP binds EGFR	
-reactome:BiochemicalReaction12387	bp3:displayName	Phosphorylation of EGFR by SRC kinase	
-reactome:Pathway2277	bp3:displayName	GRB2 events in EGFR signaling	
-reactome:Pathway2276	bp3:displayName	EGFR interacts with phospholipase C-gamma	
-reactome:Pathway2280	bp3:displayName	EGFR downregulation	
-reactome:Pathway2279	bp3:displayName	GAB1 signalosome	
-reactome:Pathway2278	bp3:displayName	SHC1 events in EGFR signaling	
-reactome:Pathway2277	http://abstraction/NextStepPathway/	reactome:Pathway2278	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5443	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1390	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5442	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5440	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1393	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1392	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5444	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1391	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5445	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5446	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1394	
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5441	
+reactome:BiochemicalReaction5445	http://abstraction/NextStepPathway/	reactome:Pathway1392	
+reactome:BiochemicalReaction5446	http://abstraction/NextStepPathway/	reactome:Pathway1392	
+reactome:BiochemicalReaction5445	http://abstraction/NextStepPathway/	reactome:Pathway1393	
+reactome:BiochemicalReaction5446	http://abstraction/NextStepPathway/	reactome:Pathway1393	
+reactome:BiochemicalReaction5445	http://abstraction/NextStepPathway/	reactome:Pathway1391	
+reactome:BiochemicalReaction5446	http://abstraction/NextStepPathway/	reactome:Pathway1391	
+reactome:BiochemicalReaction5445	http://abstraction/NextStepPathway/	reactome:Pathway1390	
+reactome:BiochemicalReaction5446	http://abstraction/NextStepPathway/	reactome:Pathway1390	
+reactome:BiochemicalReaction5445	http://abstraction/NextStepPathway/	reactome:Pathway1394	
+reactome:BiochemicalReaction5446	http://abstraction/NextStepPathway/	reactome:Pathway1394	
+reactome:BiochemicalReaction5445	http://abstraction/NextStepPathway/	reactome:Pathway1394	
+reactome:BiochemicalReaction5446	http://abstraction/NextStepPathway/	reactome:Pathway1394	
+reactome:BiochemicalReaction5442	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction5445	
+reactome:BiochemicalReaction5444	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction5445	
+reactome:BiochemicalReaction5440	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction5443	
+reactome:BiochemicalReaction5443	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction5444	
+reactome:BiochemicalReaction5444	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction5446	
+reactome:BiochemicalReaction5441	http://abstraction/NextStepBiochemicalReaction/	reactome:BiochemicalReaction5444	
+reactome:BiochemicalReaction5443	bp3:displayName	EGFR binds EGF ligand	
+reactome:BiochemicalReaction5442	bp3:displayName	FAM83B, (FAM83A, FAM83D) bind EGFR	
+reactome:BiochemicalReaction5440	bp3:displayName	Pro-EGF is cleaved to form mature EGF	
+reactome:BiochemicalReaction5444	bp3:displayName	EGFR dimerization	
+reactome:BiochemicalReaction5445	bp3:displayName	EGFR autophosphorylation	
+reactome:BiochemicalReaction5446	bp3:displayName	Phosphorylation of EGFR by SRC kinase	
+reactome:BiochemicalReaction5441	bp3:displayName	AAMP binds EGFR	
+reactome:Pathway1390	bp3:displayName	EGFR interacts with phospholipase C-gamma	
+reactome:Pathway1393	bp3:displayName	GAB1 signalosome	
+reactome:Pathway1392	bp3:displayName	SHC1 events in EGFR signaling	
+reactome:Pathway1391	bp3:displayName	GRB2 events in EGFR signaling	
+reactome:Pathway1394	bp3:displayName	EGFR downregulation	
+reactome:Pathway1391	http://abstraction/NextStepPathway/	reactome:Pathway1392	

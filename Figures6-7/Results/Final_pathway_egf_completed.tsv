@@ -1,938 +1,953 @@
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12383
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12384
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2277
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12385
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2276
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12381
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12386
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2280
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12382
-reactome:Pathway2275	bp3:pathwayComponent	reactome:BiochemicalReaction12387
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2279
-reactome:Pathway2275	bp3:pathwayComponent	reactome:Pathway2278
-reactome:BiochemicalReaction12383	bp3:displayName	FAM83B, (FAM83A, FAM83D) bind EGFR
-reactome:BiochemicalReaction12384	bp3:displayName	EGFR binds EGF ligand
-reactome:BiochemicalReaction12385	bp3:displayName	EGFR dimerization
-reactome:BiochemicalReaction12381	bp3:displayName	Pro-EGF is cleaved to form mature EGF
-reactome:BiochemicalReaction12386	bp3:displayName	EGFR autophosphorylation
-reactome:BiochemicalReaction12382	bp3:displayName	AAMP binds EGFR
-reactome:BiochemicalReaction12387	bp3:displayName	Phosphorylation of EGFR by SRC kinase
-reactome:BiochemicalReaction12383	bp3:left	reactome:Protein29336
-reactome:BiochemicalReaction12383	bp3:left	reactome:Protein8391
-reactome:BiochemicalReaction12384	bp3:left	reactome:Protein8392
-reactome:BiochemicalReaction12384	bp3:left	reactome:Protein8391
-reactome:BiochemicalReaction12385	bp3:left	reactome:Complex4059
-reactome:BiochemicalReaction12381	bp3:left	reactome:Protein29333
-reactome:BiochemicalReaction12386	bp3:left	reactome:Complex4058
-reactome:BiochemicalReaction12386	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12382	bp3:left	reactome:Protein1554
-reactome:BiochemicalReaction12382	bp3:left	reactome:Protein8391
-reactome:BiochemicalReaction12387	bp3:left	reactome:Complex4058
-reactome:BiochemicalReaction12387	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12383	bp3:right	reactome:Complex13373
-reactome:BiochemicalReaction12384	bp3:right	reactome:Complex4059
-reactome:BiochemicalReaction12385	bp3:right	reactome:Complex4058
-reactome:BiochemicalReaction12381	bp3:right	reactome:Protein8356
-reactome:BiochemicalReaction12386	bp3:right	reactome:Complex4459
-reactome:BiochemicalReaction12386	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12382	bp3:right	reactome:Complex13372
-reactome:BiochemicalReaction12387	bp3:right	reactome:Complex4459
-reactome:BiochemicalReaction12387	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12383	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12384	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12385	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12381	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12386	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12382	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12387	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12385	bp3:participantStoichiometry	reactome:Stoichiometry33496
-reactome:BiochemicalReaction12386	bp3:participantStoichiometry	reactome:Stoichiometry33497
-reactome:BiochemicalReaction12386	bp3:participantStoichiometry	reactome:Stoichiometry33498
-reactome:BiochemicalReaction12387	bp3:participantStoichiometry	reactome:Stoichiometry33500
-reactome:BiochemicalReaction12387	bp3:participantStoichiometry	reactome:Stoichiometry33499
-reactome:Pathway2277	bp3:displayName	GRB2 events in EGFR signaling
-reactome:Pathway2276	bp3:displayName	EGFR interacts with phospholipase C-gamma
-reactome:Pathway2280	bp3:displayName	EGFR downregulation
-reactome:Pathway2279	bp3:displayName	GAB1 signalosome
-reactome:Pathway2278	bp3:displayName	SHC1 events in EGFR signaling
-reactome:Pathway2277	bp3:pathwayComponent	reactome:BiochemicalReaction12392
-reactome:Pathway2277	bp3:pathwayComponent	reactome:BiochemicalReaction12393
-reactome:Pathway2277	bp3:pathwayComponent	reactome:BiochemicalReaction12391
-reactome:Pathway2276	bp3:pathwayComponent	reactome:BiochemicalReaction12388
-reactome:Pathway2276	bp3:pathwayComponent	reactome:BiochemicalReaction12389
-reactome:Pathway2276	bp3:pathwayComponent	reactome:BiochemicalReaction12390
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12428
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12425
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12409
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12412
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12416
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12424
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12418
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12423
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12421
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12415
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12422
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12430
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12420
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12417
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12427
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12414
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12426
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12410
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12413
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12429
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12419
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12411
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12399
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12407
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12403
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12398
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12408
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12402
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12406
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12401
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12405
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12404
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12400
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12395
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12394
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12397
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12396
-reactome:Pathway2277	bp3:pathwayOrder	reactome:PathwayStep14662
-reactome:Pathway2277	bp3:pathwayOrder	reactome:PathwayStep14661
-reactome:Pathway2277	bp3:pathwayOrder	reactome:PathwayStep14663
-reactome:Pathway2276	bp3:pathwayOrder	reactome:PathwayStep14658
-reactome:Pathway2276	bp3:pathwayOrder	reactome:PathwayStep14659
-reactome:Pathway2276	bp3:pathwayOrder	reactome:PathwayStep14657
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14696
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14686
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14683
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14702
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14682
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14684
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14692
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14693
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14689
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14698
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14703
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14697
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14685
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14694
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14699
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14691
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14701
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14688
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14695
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14690
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14687
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14700
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14680
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14677
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14672
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14670
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14676
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14679
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14675
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14671
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14673
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14678
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14674
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14667
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14668
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14665
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14666
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14660
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14651
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14664
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14655
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14652
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14704
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14653
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14656
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14650
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14669
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14681
-reactome:Pathway2275	bp3:pathwayOrder	reactome:PathwayStep14654
-reactome:PathwayStep14660	bp3:stepProcess	reactome:Pathway2276
-reactome:PathwayStep14651	bp3:stepProcess	reactome:BiochemicalReaction12382
-reactome:PathwayStep14664	bp3:stepProcess	reactome:Pathway2277
-reactome:PathwayStep14655	bp3:stepProcess	reactome:BiochemicalReaction12386
-reactome:PathwayStep14655	bp3:stepProcess	reactome:Control2248
-reactome:PathwayStep14655	bp3:stepProcess	reactome:Catalysis5433
-reactome:PathwayStep14652	bp3:stepProcess	reactome:BiochemicalReaction12383
-reactome:PathwayStep14704	bp3:stepProcess	reactome:Pathway2280
-reactome:PathwayStep14653	bp3:stepProcess	reactome:BiochemicalReaction12384
-reactome:PathwayStep14653	bp3:stepProcess	reactome:Control2246
-reactome:PathwayStep14656	bp3:stepProcess	reactome:Catalysis5434
-reactome:PathwayStep14656	bp3:stepProcess	reactome:BiochemicalReaction12387
-reactome:PathwayStep14650	bp3:stepProcess	reactome:BiochemicalReaction12381
-reactome:PathwayStep14650	bp3:stepProcess	reactome:Catalysis5432
-reactome:PathwayStep14669	bp3:stepProcess	reactome:Pathway2278
-reactome:PathwayStep14681	bp3:stepProcess	reactome:Pathway2279
-reactome:PathwayStep14654	bp3:stepProcess	reactome:Control2247
-reactome:PathwayStep14654	bp3:stepProcess	reactome:BiochemicalReaction12385
-reactome:PathwayStep14655	bp3:nextStep	reactome:PathwayStep14682
-reactome:PathwayStep14655	bp3:nextStep	reactome:PathwayStep16098
-reactome:PathwayStep14655	bp3:nextStep	reactome:PathwayStep14662
-reactome:PathwayStep14655	bp3:nextStep	reactome:PathwayStep14671
-reactome:PathwayStep14655	bp3:nextStep	reactome:PathwayStep14665
-reactome:PathwayStep14655	bp3:nextStep	reactome:PathwayStep16568
-reactome:PathwayStep14653	bp3:nextStep	reactome:PathwayStep15275
-reactome:PathwayStep14653	bp3:nextStep	reactome:PathwayStep15332
-reactome:PathwayStep14653	bp3:nextStep	reactome:PathwayStep14654
-reactome:PathwayStep14656	bp3:nextStep	reactome:PathwayStep14662
-reactome:PathwayStep14656	bp3:nextStep	reactome:PathwayStep14657
-reactome:PathwayStep14650	bp3:nextStep	reactome:PathwayStep14653
-reactome:PathwayStep14654	bp3:nextStep	reactome:PathwayStep14655
-reactome:PathwayStep14654	bp3:nextStep	reactome:PathwayStep14656
-reactome:BiochemicalReaction12382	bp3:left	reactome:Protein1554
-reactome:BiochemicalReaction12382	bp3:left	reactome:Protein8391
-reactome:BiochemicalReaction12386	bp3:left	reactome:Complex4058
-reactome:BiochemicalReaction12386	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12383	bp3:left	reactome:Protein29336
-reactome:BiochemicalReaction12383	bp3:left	reactome:Protein8391
-reactome:BiochemicalReaction12384	bp3:left	reactome:Protein8392
-reactome:BiochemicalReaction12384	bp3:left	reactome:Protein8391
-reactome:BiochemicalReaction12387	bp3:left	reactome:Complex4058
-reactome:BiochemicalReaction12387	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12381	bp3:left	reactome:Protein29333
-reactome:BiochemicalReaction12385	bp3:left	reactome:Complex4059
-reactome:Pathway2276	bp3:pathwayOrder	reactome:PathwayStep14658
-reactome:Pathway2276	bp3:pathwayOrder	reactome:PathwayStep14659
-reactome:Pathway2276	bp3:pathwayOrder	reactome:PathwayStep14657
-reactome:Pathway2277	bp3:pathwayOrder	reactome:PathwayStep14662
-reactome:Pathway2277	bp3:pathwayOrder	reactome:PathwayStep14661
-reactome:Pathway2277	bp3:pathwayOrder	reactome:PathwayStep14663
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14696
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14686
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14683
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14702
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14682
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14684
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14692
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14693
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14689
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14698
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14703
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14697
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14685
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14694
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14699
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14691
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14701
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14688
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14695
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14690
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14687
-reactome:Pathway2280	bp3:pathwayOrder	reactome:PathwayStep14700
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14667
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14668
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14665
-reactome:Pathway2278	bp3:pathwayOrder	reactome:PathwayStep14666
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14680
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14677
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14672
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14670
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14676
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14679
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14675
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14671
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14673
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14678
-reactome:Pathway2279	bp3:pathwayOrder	reactome:PathwayStep14674
-reactome:Pathway2276	bp3:pathwayComponent	reactome:BiochemicalReaction12388
-reactome:Pathway2276	bp3:pathwayComponent	reactome:BiochemicalReaction12389
-reactome:Pathway2276	bp3:pathwayComponent	reactome:BiochemicalReaction12390
-reactome:Pathway2277	bp3:pathwayComponent	reactome:BiochemicalReaction12392
-reactome:Pathway2277	bp3:pathwayComponent	reactome:BiochemicalReaction12393
-reactome:Pathway2277	bp3:pathwayComponent	reactome:BiochemicalReaction12391
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12428
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12425
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12409
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12412
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12416
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12424
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12418
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12423
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12421
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12415
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12422
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12430
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12420
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12417
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12427
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12414
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12426
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12410
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12413
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12429
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12419
-reactome:Pathway2280	bp3:pathwayComponent	reactome:BiochemicalReaction12411
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12395
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12394
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12397
-reactome:Pathway2278	bp3:pathwayComponent	reactome:BiochemicalReaction12396
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12399
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12407
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12403
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12398
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12408
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12402
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12406
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12401
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12405
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12404
-reactome:Pathway2279	bp3:pathwayComponent	reactome:BiochemicalReaction12400
-reactome:BiochemicalReaction12382	bp3:right	reactome:Complex13372
-reactome:BiochemicalReaction12386	bp3:right	reactome:Complex4459
-reactome:BiochemicalReaction12386	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12383	bp3:right	reactome:Complex13373
-reactome:BiochemicalReaction12384	bp3:right	reactome:Complex4059
-reactome:BiochemicalReaction12387	bp3:right	reactome:Complex4459
-reactome:BiochemicalReaction12387	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12381	bp3:right	reactome:Protein8356
-reactome:BiochemicalReaction12385	bp3:right	reactome:Complex4058
-reactome:Control2248	bp3:controller	reactome:Complex13373
-reactome:Catalysis5433	bp3:controller	reactome:Complex4058
-reactome:Control2246	bp3:controller	reactome:Protein29340
-reactome:Catalysis5434	bp3:controller	reactome:Protein6049
-reactome:Catalysis5432	bp3:controller	reactome:Complex13371
-reactome:Control2247	bp3:controller	reactome:Complex13372
-reactome:Control2248	bp3:controlled	reactome:BiochemicalReaction12386
-reactome:Catalysis5433	bp3:controlled	reactome:BiochemicalReaction12386
-reactome:Control2246	bp3:controlled	reactome:BiochemicalReaction12384
-reactome:Catalysis5434	bp3:controlled	reactome:BiochemicalReaction12387
-reactome:Catalysis5432	bp3:controlled	reactome:BiochemicalReaction12381
-reactome:Control2247	bp3:controlled	reactome:BiochemicalReaction12385
-reactome:Pathway2276	bp3:displayName	EGFR interacts with phospholipase C-gamma
-reactome:BiochemicalReaction12382	bp3:displayName	AAMP binds EGFR
-reactome:Pathway2277	bp3:displayName	GRB2 events in EGFR signaling
-reactome:BiochemicalReaction12386	bp3:displayName	EGFR autophosphorylation
-reactome:BiochemicalReaction12383	bp3:displayName	FAM83B, (FAM83A, FAM83D) bind EGFR
-reactome:Pathway2280	bp3:displayName	EGFR downregulation
-reactome:BiochemicalReaction12384	bp3:displayName	EGFR binds EGF ligand
-reactome:BiochemicalReaction12387	bp3:displayName	Phosphorylation of EGFR by SRC kinase
-reactome:BiochemicalReaction12381	bp3:displayName	Pro-EGF is cleaved to form mature EGF
-reactome:Pathway2278	bp3:displayName	SHC1 events in EGFR signaling
-reactome:Pathway2279	bp3:displayName	GAB1 signalosome
-reactome:BiochemicalReaction12385	bp3:displayName	EGFR dimerization
-reactome:BiochemicalReaction12382	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12386	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12383	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12384	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12387	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12381	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12385	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12386	bp3:participantStoichiometry	reactome:Stoichiometry33497
-reactome:BiochemicalReaction12386	bp3:participantStoichiometry	reactome:Stoichiometry33498
-reactome:BiochemicalReaction12387	bp3:participantStoichiometry	reactome:Stoichiometry33500
-reactome:BiochemicalReaction12387	bp3:participantStoichiometry	reactome:Stoichiometry33499
-reactome:BiochemicalReaction12385	bp3:participantStoichiometry	reactome:Stoichiometry33496
-reactome:BiochemicalReaction12392	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12392	bp3:left	reactome:Complex2907
-reactome:BiochemicalReaction12393	bp3:left	reactome:SmallMolecule157
-reactome:BiochemicalReaction12393	bp3:left	reactome:Complex306
-reactome:BiochemicalReaction12391	bp3:left	reactome:Protein173
-reactome:BiochemicalReaction12391	bp3:left	reactome:Protein1642
-reactome:BiochemicalReaction12388	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12388	bp3:left	reactome:Protein2131
-reactome:BiochemicalReaction12389	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12389	bp3:left	reactome:Complex13374
-reactome:BiochemicalReaction12390	bp3:left	reactome:Complex13375
-reactome:BiochemicalReaction12428	bp3:left	reactome:Complex13403
-reactome:BiochemicalReaction12428	bp3:left	reactome:Protein21988
-reactome:BiochemicalReaction12428	bp3:left	reactome:SmallMolecule161
-reactome:BiochemicalReaction12428	bp3:left	reactome:Protein21987
-reactome:BiochemicalReaction12428	bp3:left	reactome:Complex5792
-reactome:BiochemicalReaction12425	bp3:left	reactome:Complex13407
-reactome:BiochemicalReaction12425	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12409	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12409	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12412	bp3:left	reactome:Complex13394
-reactome:BiochemicalReaction12412	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12416	bp3:left	reactome:Complex13399
-reactome:BiochemicalReaction12416	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12424	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12424	bp3:left	reactome:Complex13408
-reactome:BiochemicalReaction12418	bp3:left	reactome:Complex13401
-reactome:BiochemicalReaction12418	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12423	bp3:left	reactome:Complex13394
-reactome:BiochemicalReaction12423	bp3:left	reactome:Protein21988
-reactome:BiochemicalReaction12423	bp3:left	reactome:Complex5785
-reactome:BiochemicalReaction12423	bp3:left	reactome:Protein21987
-reactome:BiochemicalReaction12423	bp3:left	reactome:Complex5792
-reactome:BiochemicalReaction12421	bp3:left	reactome:Complex13405
-reactome:BiochemicalReaction12421	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12415	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12415	bp3:left	reactome:Complex13398
-reactome:BiochemicalReaction12422	bp3:left	reactome:Complex5785
-reactome:BiochemicalReaction12422	bp3:left	reactome:Complex13399
-reactome:BiochemicalReaction12430	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12430	bp3:left	reactome:Complex13418
-reactome:BiochemicalReaction12420	bp3:left	reactome:Complex13404
-reactome:BiochemicalReaction12417	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12417	bp3:left	reactome:Protein29352
-reactome:BiochemicalReaction12427	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12427	bp3:left	reactome:Complex13413
-reactome:BiochemicalReaction12414	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12414	bp3:left	reactome:Complex3996
-reactome:BiochemicalReaction12426	bp3:left	reactome:Complex13407
-reactome:BiochemicalReaction12426	bp3:left	reactome:Protein29355
-reactome:BiochemicalReaction12410	bp3:left	reactome:Complex13393
-reactome:BiochemicalReaction12410	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12413	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12413	bp3:left	reactome:Protein173
-reactome:BiochemicalReaction12429	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12429	bp3:left	reactome:Complex13417
-reactome:BiochemicalReaction12419	bp3:left	reactome:Complex13401
-reactome:BiochemicalReaction12419	bp3:left	reactome:Complex13403
-reactome:BiochemicalReaction12411	bp3:left	reactome:Complex13394
-reactome:BiochemicalReaction12411	bp3:left	reactome:Protein29347
-reactome:BiochemicalReaction12411	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12399	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12399	bp3:left	reactome:Complex13380
-reactome:BiochemicalReaction12407	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12407	bp3:left	reactome:Protein4346
-reactome:BiochemicalReaction12403	bp3:left	reactome:SmallMolecule161
-reactome:BiochemicalReaction12403	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12398	bp3:left	reactome:Protein173
-reactome:BiochemicalReaction12398	bp3:left	reactome:Protein8385
-reactome:BiochemicalReaction12408	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12408	bp3:left	reactome:Complex13391
-reactome:BiochemicalReaction12402	bp3:left	reactome:Complex4455
-reactome:BiochemicalReaction12402	bp3:left	reactome:Complex3993
-reactome:BiochemicalReaction12406	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12406	bp3:left	reactome:Complex13383
-reactome:BiochemicalReaction12401	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12401	bp3:left	reactome:Complex13382
-reactome:BiochemicalReaction12405	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12405	bp3:left	reactome:Complex13383
-reactome:BiochemicalReaction12404	bp3:left	reactome:Complex4455
-reactome:BiochemicalReaction12404	bp3:left	reactome:Protein169
-reactome:BiochemicalReaction12400	bp3:left	reactome:SmallMolecule162
-reactome:BiochemicalReaction12400	bp3:left	reactome:Complex4029
-reactome:BiochemicalReaction12395	bp3:left	reactome:Complex13377
-reactome:BiochemicalReaction12395	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12394	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12394	bp3:left	reactome:Protein1649
-reactome:BiochemicalReaction12397	bp3:left	reactome:SmallMolecule157
-reactome:BiochemicalReaction12397	bp3:left	reactome:Complex306
-reactome:BiochemicalReaction12396	bp3:left	reactome:Complex2907
-reactome:BiochemicalReaction12396	bp3:left	reactome:Complex13378
-reactome:BiochemicalReaction12392	bp3:right	reactome:Complex13376
-reactome:BiochemicalReaction12393	bp3:right	reactome:SmallMolecule158
-reactome:BiochemicalReaction12393	bp3:right	reactome:Complex307
-reactome:BiochemicalReaction12391	bp3:right	reactome:Complex2907
-reactome:BiochemicalReaction12388	bp3:right	reactome:Complex13374
-reactome:BiochemicalReaction12389	bp3:right	reactome:Complex13375
-reactome:BiochemicalReaction12389	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12390	bp3:right	reactome:Complex4459
-reactome:BiochemicalReaction12390	bp3:right	reactome:Protein4393
-reactome:BiochemicalReaction12428	bp3:right	reactome:Complex13417
-reactome:BiochemicalReaction12425	bp3:right	reactome:Complex13409
-reactome:BiochemicalReaction12409	bp3:right	reactome:Complex13393
-reactome:BiochemicalReaction12412	bp3:right	reactome:Complex13397
-reactome:BiochemicalReaction12416	bp3:right	reactome:Complex9305
-reactome:BiochemicalReaction12424	bp3:right	reactome:Complex13395
-reactome:BiochemicalReaction12418	bp3:right	reactome:Complex13402
-reactome:BiochemicalReaction12423	bp3:right	reactome:Complex13407
-reactome:BiochemicalReaction12421	bp3:right	reactome:Complex13406
-reactome:BiochemicalReaction12421	bp3:right	reactome:Complex13398
-reactome:BiochemicalReaction12415	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12415	bp3:right	reactome:Complex13399
-reactome:BiochemicalReaction12422	bp3:right	reactome:Complex13403
-reactome:BiochemicalReaction12430	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12430	bp3:right	reactome:Complex13417
-reactome:BiochemicalReaction12420	bp3:right	reactome:Complex13405
-reactome:BiochemicalReaction12420	bp3:right	reactome:Complex5785
-reactome:BiochemicalReaction12417	bp3:right	reactome:Complex13400
-reactome:BiochemicalReaction12427	bp3:right	reactome:Complex13415
-reactome:BiochemicalReaction12427	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12414	bp3:right	reactome:Complex13398
-reactome:BiochemicalReaction12426	bp3:right	reactome:Complex13412
-reactome:BiochemicalReaction12410	bp3:right	reactome:Complex13394
-reactome:BiochemicalReaction12410	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12413	bp3:right	reactome:Complex3996
-reactome:BiochemicalReaction12429	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12429	bp3:right	reactome:Complex13418
-reactome:BiochemicalReaction12419	bp3:right	reactome:Complex13404
-reactome:BiochemicalReaction12411	bp3:right	reactome:Complex13395
-reactome:BiochemicalReaction12399	bp3:right	reactome:Complex13382
-reactome:BiochemicalReaction12407	bp3:right	reactome:Protein29345
-reactome:BiochemicalReaction12407	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12403	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12403	bp3:right	reactome:SmallMolecule162
-reactome:BiochemicalReaction12398	bp3:right	reactome:Complex4029
-reactome:BiochemicalReaction12408	bp3:right	reactome:Complex13392
-reactome:BiochemicalReaction12408	bp3:right	reactome:Protein4375
-reactome:BiochemicalReaction12408	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12402	bp3:right	reactome:Complex4454
-reactome:BiochemicalReaction12406	bp3:right	reactome:Complex13388
-reactome:BiochemicalReaction12406	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12401	bp3:right	reactome:Complex4455
-reactome:BiochemicalReaction12401	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12405	bp3:right	reactome:Complex13384
-reactome:BiochemicalReaction12405	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12404	bp3:right	reactome:Complex13383
-reactome:BiochemicalReaction12400	bp3:right	reactome:Complex13381
-reactome:BiochemicalReaction12395	bp3:right	reactome:Complex13378
-reactome:BiochemicalReaction12395	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12394	bp3:right	reactome:Complex13377
-reactome:BiochemicalReaction12397	bp3:right	reactome:SmallMolecule158
-reactome:BiochemicalReaction12397	bp3:right	reactome:Complex307
-reactome:BiochemicalReaction12396	bp3:right	reactome:Complex13379
-reactome:BiochemicalReaction12392	bp3:displayName	GRB2:SOS1 complex binds to EGF:EGFR complex
-reactome:BiochemicalReaction12393	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
-reactome:BiochemicalReaction12391	bp3:displayName	GRB2-1 binds SOS1
-reactome:BiochemicalReaction12388	bp3:displayName	Phospholipase C-gamma1 binds to the activated EGF receptor
-reactome:BiochemicalReaction12389	bp3:displayName	EGFR activates PLC-gamma1 by phosphorylation
-reactome:BiochemicalReaction12390	bp3:displayName	Active PLC-gamma1 dissociates from EGFR
-reactome:BiochemicalReaction12428	bp3:displayName	EGFR binds EPS15, EPN1, EPS15L1
-reactome:BiochemicalReaction12425	bp3:displayName	CBL-mediated ubiquitination of CIN85
-reactome:BiochemicalReaction12409	bp3:displayName	Binding of CBL to EGFR
-reactome:BiochemicalReaction12412	bp3:displayName	Ubiquitination of stimulated EGFR (CBL)
-reactome:BiochemicalReaction12416	bp3:displayName	Ubiquitination of stimulated EGFR (CBL:GRB2)
-reactome:BiochemicalReaction12424	bp3:displayName	CBL ubiquitinates Sprouty
-reactome:BiochemicalReaction12418	bp3:displayName	CDC42:GTP binds CBL:Beta-Pix
-reactome:BiochemicalReaction12423	bp3:displayName	EGFR non-clathrin mediated endocytosis
-reactome:BiochemicalReaction12421	bp3:displayName	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
-reactome:BiochemicalReaction12415	bp3:displayName	Phosphorylation of CBL (EGFR:GRB2:CBL)
-reactome:BiochemicalReaction12422	bp3:displayName	Assembly of EGFR complex in clathrin-coated vesicles
-reactome:BiochemicalReaction12430	bp3:displayName	PTPN3 dephosphorylates EPS15
-reactome:BiochemicalReaction12420	bp3:displayName	CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
-reactome:BiochemicalReaction12417	bp3:displayName	Sprouty lures CBL away from EGFR
-reactome:BiochemicalReaction12427	bp3:displayName	PTPN12 dephosphorylates EGFR at Y1172 (Y1148)
-reactome:BiochemicalReaction12414	bp3:displayName	Localization of CBL:GRB2 to the membrane
-reactome:BiochemicalReaction12426	bp3:displayName	Sprouty sequesters CBL away from active EGFR
-reactome:BiochemicalReaction12410	bp3:displayName	Phosphorylation of CBL (EGFR:CBL)
-reactome:BiochemicalReaction12413	bp3:displayName	CBL binds to GRB2
-reactome:BiochemicalReaction12429	bp3:displayName	EGFR phosphorylates EPS15
-reactome:BiochemicalReaction12419	bp3:displayName	Beta-Pix pushes CIN85 away from CBL
-reactome:BiochemicalReaction12411	bp3:displayName	CBL binds and ubiquitinates phosphorylated Sprouty
-reactome:BiochemicalReaction12399	bp3:displayName	GRB2:GAB1 binds to phosphorylated EGFR
-reactome:BiochemicalReaction12407	bp3:displayName	Dephosphorylation of PAG by SHP2
-reactome:BiochemicalReaction12403	bp3:displayName	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
-reactome:BiochemicalReaction12398	bp3:displayName	Binding of GRB2 to GAB1
-reactome:BiochemicalReaction12408	bp3:displayName	Sustained activation of SRC kinase by SHP2
-reactome:BiochemicalReaction12402	bp3:displayName	PI3K binds to EGF:EGFR:GRB2:GAB1
-reactome:BiochemicalReaction12406	bp3:displayName	SHP2 dephosphorylates Tyr 992 on EGFR
-reactome:BiochemicalReaction12401	bp3:displayName	GAB1 phosphorylation by EGFR kinase
-reactome:BiochemicalReaction12405	bp3:displayName	Dephosphorylation of Gab1 by SHP2
-reactome:BiochemicalReaction12404	bp3:displayName	Activation of SHP2 through the binding to phospho-Gab1
-reactome:BiochemicalReaction12400	bp3:displayName	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
-reactome:BiochemicalReaction12395	bp3:displayName	SHC1 phosphorylation by phosphorylated EGFR
-reactome:BiochemicalReaction12394	bp3:displayName	SHC1 binds to the phosphorylated EGF receptor:ligand complex
-reactome:BiochemicalReaction12397	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
-reactome:BiochemicalReaction12396	bp3:displayName	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
-reactome:BiochemicalReaction12392	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12393	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12391	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12388	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12389	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12390	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12428	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12425	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12409	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12412	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12416	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12424	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12418	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12423	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12421	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12415	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12422	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12430	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12420	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12417	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12427	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12414	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12426	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12410	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12413	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12429	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12419	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12411	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12399	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12407	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12403	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12398	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12408	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12402	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12406	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12401	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12405	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12404	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12400	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12395	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12394	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12397	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:BiochemicalReaction12396	bp3:conversionDirection	LEFT-TO-RIGHT
-reactome:PathwayStep14662	bp3:stepProcess	reactome:BiochemicalReaction12392
-reactome:PathwayStep14661	bp3:stepProcess	reactome:BiochemicalReaction12391
-reactome:PathwayStep14663	bp3:stepProcess	reactome:Catalysis5436
-reactome:PathwayStep14663	bp3:stepProcess	reactome:BiochemicalReaction12393
-reactome:PathwayStep14658	bp3:stepProcess	reactome:BiochemicalReaction12389
-reactome:PathwayStep14658	bp3:stepProcess	reactome:Catalysis5435
-reactome:PathwayStep14659	bp3:stepProcess	reactome:BiochemicalReaction12390
-reactome:PathwayStep14657	bp3:stepProcess	reactome:BiochemicalReaction12388
-reactome:PathwayStep14696	bp3:stepProcess	reactome:BiochemicalReaction12423
-reactome:PathwayStep14686	bp3:stepProcess	reactome:BiochemicalReaction12413
-reactome:PathwayStep14683	bp3:stepProcess	reactome:Catalysis5445
-reactome:PathwayStep14683	bp3:stepProcess	reactome:BiochemicalReaction12410
-reactome:PathwayStep14702	bp3:stepProcess	reactome:Catalysis5454
-reactome:PathwayStep14702	bp3:stepProcess	reactome:BiochemicalReaction12429
-reactome:PathwayStep14682	bp3:stepProcess	reactome:BiochemicalReaction12409
-reactome:PathwayStep14684	bp3:stepProcess	reactome:Catalysis5446
-reactome:PathwayStep14684	bp3:stepProcess	reactome:BiochemicalReaction12411
-reactome:PathwayStep14692	bp3:stepProcess	reactome:BiochemicalReaction12419
-reactome:PathwayStep14693	bp3:stepProcess	reactome:BiochemicalReaction12420
-reactome:PathwayStep14689	bp3:stepProcess	reactome:BiochemicalReaction12416
-reactome:PathwayStep14689	bp3:stepProcess	reactome:Catalysis5449
-reactome:PathwayStep14689	bp3:stepProcess	reactome:Control2249
-reactome:PathwayStep14698	bp3:stepProcess	reactome:BiochemicalReaction12425
-reactome:PathwayStep14698	bp3:stepProcess	reactome:Catalysis5452
-reactome:PathwayStep14703	bp3:stepProcess	reactome:BiochemicalReaction12430
-reactome:PathwayStep14703	bp3:stepProcess	reactome:Catalysis5455
-reactome:PathwayStep14697	bp3:stepProcess	reactome:BiochemicalReaction12424
-reactome:PathwayStep14697	bp3:stepProcess	reactome:Catalysis5451
-reactome:PathwayStep14685	bp3:stepProcess	reactome:Catalysis5447
-reactome:PathwayStep14685	bp3:stepProcess	reactome:BiochemicalReaction12412
-reactome:PathwayStep14694	bp3:stepProcess	reactome:BiochemicalReaction12421
-reactome:PathwayStep14694	bp3:stepProcess	reactome:Catalysis5450
-reactome:PathwayStep14699	bp3:stepProcess	reactome:BiochemicalReaction12426
-reactome:PathwayStep14691	bp3:stepProcess	reactome:BiochemicalReaction12418
-reactome:PathwayStep14701	bp3:stepProcess	reactome:BiochemicalReaction12428
-reactome:PathwayStep14688	bp3:stepProcess	reactome:Catalysis5448
-reactome:PathwayStep14688	bp3:stepProcess	reactome:BiochemicalReaction12415
-reactome:PathwayStep14695	bp3:stepProcess	reactome:BiochemicalReaction12422
-reactome:PathwayStep14690	bp3:stepProcess	reactome:BiochemicalReaction12417
-reactome:PathwayStep14687	bp3:stepProcess	reactome:BiochemicalReaction12414
-reactome:PathwayStep14700	bp3:stepProcess	reactome:Catalysis5453
-reactome:PathwayStep14700	bp3:stepProcess	reactome:BiochemicalReaction12427
-reactome:PathwayStep14680	bp3:stepProcess	reactome:Catalysis5444
-reactome:PathwayStep14680	bp3:stepProcess	reactome:BiochemicalReaction12408
-reactome:PathwayStep14677	bp3:stepProcess	reactome:Catalysis5441
-reactome:PathwayStep14677	bp3:stepProcess	reactome:BiochemicalReaction12405
-reactome:PathwayStep14672	bp3:stepProcess	reactome:BiochemicalReaction12400
-reactome:PathwayStep14670	bp3:stepProcess	reactome:BiochemicalReaction12398
-reactome:PathwayStep14676	bp3:stepProcess	reactome:BiochemicalReaction12404
-reactome:PathwayStep14679	bp3:stepProcess	reactome:BiochemicalReaction12407
-reactome:PathwayStep14679	bp3:stepProcess	reactome:Catalysis5443
-reactome:PathwayStep14675	bp3:stepProcess	reactome:BiochemicalReaction12403
-reactome:PathwayStep14675	bp3:stepProcess	reactome:Catalysis5440
-reactome:PathwayStep14671	bp3:stepProcess	reactome:BiochemicalReaction12399
-reactome:PathwayStep14673	bp3:stepProcess	reactome:Catalysis5439
-reactome:PathwayStep14673	bp3:stepProcess	reactome:BiochemicalReaction12401
-reactome:PathwayStep14678	bp3:stepProcess	reactome:BiochemicalReaction12406
-reactome:PathwayStep14678	bp3:stepProcess	reactome:Catalysis5442
-reactome:PathwayStep14674	bp3:stepProcess	reactome:BiochemicalReaction12402
-reactome:PathwayStep14667	bp3:stepProcess	reactome:BiochemicalReaction12396
-reactome:PathwayStep14668	bp3:stepProcess	reactome:BiochemicalReaction12397
-reactome:PathwayStep14668	bp3:stepProcess	reactome:Catalysis5438
-reactome:PathwayStep14665	bp3:stepProcess	reactome:BiochemicalReaction12394
-reactome:PathwayStep14666	bp3:stepProcess	reactome:BiochemicalReaction12395
-reactome:PathwayStep14666	bp3:stepProcess	reactome:Catalysis5437
-reactome:BiochemicalReaction12392	bp3:right	reactome:Complex13376
-reactome:BiochemicalReaction12391	bp3:right	reactome:Complex2907
-reactome:BiochemicalReaction12393	bp3:right	reactome:SmallMolecule158
-reactome:BiochemicalReaction12393	bp3:right	reactome:Complex307
-reactome:BiochemicalReaction12389	bp3:right	reactome:Complex13375
-reactome:BiochemicalReaction12389	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12390	bp3:right	reactome:Complex4459
-reactome:BiochemicalReaction12390	bp3:right	reactome:Protein4393
-reactome:BiochemicalReaction12388	bp3:right	reactome:Complex13374
-reactome:BiochemicalReaction12423	bp3:right	reactome:Complex13407
-reactome:BiochemicalReaction12413	bp3:right	reactome:Complex3996
-reactome:BiochemicalReaction12410	bp3:right	reactome:Complex13394
-reactome:BiochemicalReaction12410	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12429	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12429	bp3:right	reactome:Complex13418
-reactome:BiochemicalReaction12409	bp3:right	reactome:Complex13393
-reactome:BiochemicalReaction12411	bp3:right	reactome:Complex13395
-reactome:BiochemicalReaction12419	bp3:right	reactome:Complex13404
-reactome:BiochemicalReaction12420	bp3:right	reactome:Complex13405
-reactome:BiochemicalReaction12420	bp3:right	reactome:Complex5785
-reactome:BiochemicalReaction12416	bp3:right	reactome:Complex9305
-reactome:BiochemicalReaction12425	bp3:right	reactome:Complex13409
-reactome:BiochemicalReaction12430	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12430	bp3:right	reactome:Complex13417
-reactome:BiochemicalReaction12424	bp3:right	reactome:Complex13395
-reactome:BiochemicalReaction12412	bp3:right	reactome:Complex13397
-reactome:BiochemicalReaction12421	bp3:right	reactome:Complex13406
-reactome:BiochemicalReaction12421	bp3:right	reactome:Complex13398
-reactome:BiochemicalReaction12426	bp3:right	reactome:Complex13412
-reactome:BiochemicalReaction12418	bp3:right	reactome:Complex13402
-reactome:BiochemicalReaction12428	bp3:right	reactome:Complex13417
-reactome:BiochemicalReaction12415	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12415	bp3:right	reactome:Complex13399
-reactome:BiochemicalReaction12422	bp3:right	reactome:Complex13403
-reactome:BiochemicalReaction12417	bp3:right	reactome:Complex13400
-reactome:BiochemicalReaction12414	bp3:right	reactome:Complex13398
-reactome:BiochemicalReaction12427	bp3:right	reactome:Complex13415
-reactome:BiochemicalReaction12427	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12408	bp3:right	reactome:Complex13392
-reactome:BiochemicalReaction12408	bp3:right	reactome:Protein4375
-reactome:BiochemicalReaction12408	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12405	bp3:right	reactome:Complex13384
-reactome:BiochemicalReaction12405	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12400	bp3:right	reactome:Complex13381
-reactome:BiochemicalReaction12398	bp3:right	reactome:Complex4029
-reactome:BiochemicalReaction12404	bp3:right	reactome:Complex13383
-reactome:BiochemicalReaction12407	bp3:right	reactome:Protein29345
-reactome:BiochemicalReaction12407	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12403	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12403	bp3:right	reactome:SmallMolecule162
-reactome:BiochemicalReaction12399	bp3:right	reactome:Complex13382
-reactome:BiochemicalReaction12401	bp3:right	reactome:Complex4455
-reactome:BiochemicalReaction12401	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12406	bp3:right	reactome:Complex13388
-reactome:BiochemicalReaction12406	bp3:right	reactome:SmallMolecule10
-reactome:BiochemicalReaction12402	bp3:right	reactome:Complex4454
-reactome:BiochemicalReaction12396	bp3:right	reactome:Complex13379
-reactome:BiochemicalReaction12397	bp3:right	reactome:SmallMolecule158
-reactome:BiochemicalReaction12397	bp3:right	reactome:Complex307
-reactome:BiochemicalReaction12394	bp3:right	reactome:Complex13377
-reactome:BiochemicalReaction12395	bp3:right	reactome:Complex13378
-reactome:BiochemicalReaction12395	bp3:right	reactome:SmallMolecule4
-reactome:BiochemicalReaction12392	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12392	bp3:left	reactome:Complex2907
-reactome:BiochemicalReaction12391	bp3:left	reactome:Protein173
-reactome:BiochemicalReaction12391	bp3:left	reactome:Protein1642
-reactome:BiochemicalReaction12393	bp3:left	reactome:SmallMolecule157
-reactome:BiochemicalReaction12393	bp3:left	reactome:Complex306
-reactome:BiochemicalReaction12389	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12389	bp3:left	reactome:Complex13374
-reactome:BiochemicalReaction12390	bp3:left	reactome:Complex13375
-reactome:BiochemicalReaction12388	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12388	bp3:left	reactome:Protein2131
-reactome:BiochemicalReaction12423	bp3:left	reactome:Complex13394
-reactome:BiochemicalReaction12423	bp3:left	reactome:Protein21988
-reactome:BiochemicalReaction12423	bp3:left	reactome:Complex5785
-reactome:BiochemicalReaction12423	bp3:left	reactome:Protein21987
-reactome:BiochemicalReaction12423	bp3:left	reactome:Complex5792
-reactome:BiochemicalReaction12413	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12413	bp3:left	reactome:Protein173
-reactome:BiochemicalReaction12410	bp3:left	reactome:Complex13393
-reactome:BiochemicalReaction12410	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12429	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12429	bp3:left	reactome:Complex13417
-reactome:BiochemicalReaction12409	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12409	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12411	bp3:left	reactome:Complex13394
-reactome:BiochemicalReaction12411	bp3:left	reactome:Protein29347
-reactome:BiochemicalReaction12411	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12419	bp3:left	reactome:Complex13401
-reactome:BiochemicalReaction12419	bp3:left	reactome:Complex13403
-reactome:BiochemicalReaction12420	bp3:left	reactome:Complex13404
-reactome:BiochemicalReaction12416	bp3:left	reactome:Complex13399
-reactome:BiochemicalReaction12416	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12425	bp3:left	reactome:Complex13407
-reactome:BiochemicalReaction12425	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12430	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12430	bp3:left	reactome:Complex13418
-reactome:BiochemicalReaction12424	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12424	bp3:left	reactome:Complex13408
-reactome:BiochemicalReaction12412	bp3:left	reactome:Complex13394
-reactome:BiochemicalReaction12412	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12421	bp3:left	reactome:Complex13405
-reactome:BiochemicalReaction12421	bp3:left	reactome:Protein2862
-reactome:BiochemicalReaction12426	bp3:left	reactome:Complex13407
-reactome:BiochemicalReaction12426	bp3:left	reactome:Protein29355
-reactome:BiochemicalReaction12418	bp3:left	reactome:Complex13401
-reactome:BiochemicalReaction12418	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12428	bp3:left	reactome:Complex13403
-reactome:BiochemicalReaction12428	bp3:left	reactome:Protein21988
-reactome:BiochemicalReaction12428	bp3:left	reactome:SmallMolecule161
-reactome:BiochemicalReaction12428	bp3:left	reactome:Protein21987
-reactome:BiochemicalReaction12428	bp3:left	reactome:Complex5792
-reactome:BiochemicalReaction12415	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12415	bp3:left	reactome:Complex13398
-reactome:BiochemicalReaction12422	bp3:left	reactome:Complex5785
-reactome:BiochemicalReaction12422	bp3:left	reactome:Complex13399
-reactome:BiochemicalReaction12417	bp3:left	reactome:Protein7905
-reactome:BiochemicalReaction12417	bp3:left	reactome:Protein29352
-reactome:BiochemicalReaction12414	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12414	bp3:left	reactome:Complex3996
-reactome:BiochemicalReaction12427	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12427	bp3:left	reactome:Complex13413
-reactome:BiochemicalReaction12408	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12408	bp3:left	reactome:Complex13391
-reactome:BiochemicalReaction12405	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12405	bp3:left	reactome:Complex13383
-reactome:BiochemicalReaction12400	bp3:left	reactome:SmallMolecule162
-reactome:BiochemicalReaction12400	bp3:left	reactome:Complex4029
-reactome:BiochemicalReaction12398	bp3:left	reactome:Protein173
-reactome:BiochemicalReaction12398	bp3:left	reactome:Protein8385
-reactome:BiochemicalReaction12404	bp3:left	reactome:Complex4455
-reactome:BiochemicalReaction12404	bp3:left	reactome:Protein169
-reactome:BiochemicalReaction12407	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12407	bp3:left	reactome:Protein4346
-reactome:BiochemicalReaction12403	bp3:left	reactome:SmallMolecule161
-reactome:BiochemicalReaction12403	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12399	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12399	bp3:left	reactome:Complex13380
-reactome:BiochemicalReaction12401	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12401	bp3:left	reactome:Complex13382
-reactome:BiochemicalReaction12406	bp3:left	reactome:SmallMolecule15
-reactome:BiochemicalReaction12406	bp3:left	reactome:Complex13383
-reactome:BiochemicalReaction12402	bp3:left	reactome:Complex4455
-reactome:BiochemicalReaction12402	bp3:left	reactome:Complex3993
-reactome:BiochemicalReaction12396	bp3:left	reactome:Complex2907
-reactome:BiochemicalReaction12396	bp3:left	reactome:Complex13378
-reactome:BiochemicalReaction12397	bp3:left	reactome:SmallMolecule157
-reactome:BiochemicalReaction12397	bp3:left	reactome:Complex306
-reactome:BiochemicalReaction12394	bp3:left	reactome:Complex4459
-reactome:BiochemicalReaction12394	bp3:left	reactome:Protein1649
-reactome:BiochemicalReaction12395	bp3:left	reactome:Complex13377
-reactome:BiochemicalReaction12395	bp3:left	reactome:SmallMolecule3
-reactome:BiochemicalReaction12389	bp3:participantStoichiometry	reactome:Stoichiometry33506
-reactome:BiochemicalReaction12389	bp3:participantStoichiometry	reactome:Stoichiometry33503
-reactome:BiochemicalReaction12410	bp3:participantStoichiometry	reactome:Stoichiometry33549
-reactome:BiochemicalReaction12410	bp3:participantStoichiometry	reactome:Stoichiometry33548
-reactome:BiochemicalReaction12409	bp3:participantStoichiometry	reactome:Stoichiometry33545
-reactome:BiochemicalReaction12419	bp3:participantStoichiometry	reactome:Stoichiometry33583
-reactome:BiochemicalReaction12416	bp3:participantStoichiometry	reactome:Stoichiometry33571
-reactome:BiochemicalReaction12412	bp3:participantStoichiometry	reactome:Stoichiometry33557
-reactome:BiochemicalReaction12421	bp3:participantStoichiometry	reactome:Stoichiometry33592
-reactome:BiochemicalReaction12421	bp3:participantStoichiometry	reactome:Stoichiometry33588
-reactome:BiochemicalReaction12415	bp3:participantStoichiometry	reactome:Stoichiometry33566
-reactome:BiochemicalReaction12415	bp3:participantStoichiometry	reactome:Stoichiometry33565
-reactome:BiochemicalReaction12414	bp3:participantStoichiometry	reactome:Stoichiometry33562
-reactome:BiochemicalReaction12427	bp3:participantStoichiometry	reactome:Stoichiometry33612
-reactome:BiochemicalReaction12427	bp3:participantStoichiometry	reactome:Stoichiometry33616
-reactome:BiochemicalReaction12405	bp3:participantStoichiometry	reactome:Stoichiometry33526
-reactome:BiochemicalReaction12405	bp3:participantStoichiometry	reactome:Stoichiometry33525
-reactome:BiochemicalReaction12401	bp3:participantStoichiometry	reactome:Stoichiometry33522
-reactome:BiochemicalReaction12401	bp3:participantStoichiometry	reactome:Stoichiometry33521
-reactome:BiochemicalReaction12395	bp3:participantStoichiometry	reactome:Stoichiometry33512
-reactome:BiochemicalReaction12395	bp3:participantStoichiometry	reactome:Stoichiometry33511
-reactome:Catalysis5436	bp3:controlled	reactome:BiochemicalReaction12393
-reactome:Catalysis5435	bp3:controlled	reactome:BiochemicalReaction12389
-reactome:Catalysis5445	bp3:controlled	reactome:BiochemicalReaction12410
-reactome:Catalysis5454	bp3:controlled	reactome:BiochemicalReaction12429
-reactome:Catalysis5446	bp3:controlled	reactome:BiochemicalReaction12411
-reactome:Catalysis5449	bp3:controlled	reactome:BiochemicalReaction12416
-reactome:Control2249	bp3:controlled	reactome:BiochemicalReaction12416
-reactome:Catalysis5452	bp3:controlled	reactome:BiochemicalReaction12425
-reactome:Catalysis5455	bp3:controlled	reactome:BiochemicalReaction12430
-reactome:Catalysis5451	bp3:controlled	reactome:BiochemicalReaction12424
-reactome:Catalysis5447	bp3:controlled	reactome:BiochemicalReaction12412
-reactome:Catalysis5450	bp3:controlled	reactome:BiochemicalReaction12421
-reactome:Catalysis5448	bp3:controlled	reactome:BiochemicalReaction12415
-reactome:Catalysis5453	bp3:controlled	reactome:BiochemicalReaction12427
-reactome:Catalysis5444	bp3:controlled	reactome:BiochemicalReaction12408
-reactome:Catalysis5441	bp3:controlled	reactome:BiochemicalReaction12405
-reactome:Catalysis5443	bp3:controlled	reactome:BiochemicalReaction12407
-reactome:Catalysis5440	bp3:controlled	reactome:BiochemicalReaction12403
-reactome:Catalysis5439	bp3:controlled	reactome:BiochemicalReaction12401
-reactome:Catalysis5442	bp3:controlled	reactome:BiochemicalReaction12406
-reactome:Catalysis5438	bp3:controlled	reactome:BiochemicalReaction12397
-reactome:Catalysis5437	bp3:controlled	reactome:BiochemicalReaction12395
-reactome:Catalysis5436	bp3:controller	reactome:Complex13376
-reactome:Catalysis5435	bp3:controller	reactome:Complex13374
-reactome:Catalysis5445	bp3:controller	reactome:Complex13393
-reactome:Catalysis5454	bp3:controller	reactome:Complex13417
-reactome:Catalysis5446	bp3:controller	reactome:Complex13394
-reactome:Catalysis5449	bp3:controller	reactome:Complex13399
-reactome:Control2249	bp3:controller	reactome:Protein29353
-reactome:Catalysis5452	bp3:controller	reactome:Complex13407
-reactome:Catalysis5455	bp3:controller	reactome:Protein29359
-reactome:Catalysis5451	bp3:controller	reactome:Complex13408
-reactome:Catalysis5447	bp3:controller	reactome:Complex13394
-reactome:Catalysis5450	bp3:controller	reactome:Complex13405
-reactome:Catalysis5448	bp3:controller	reactome:Complex13398
-reactome:Catalysis5453	bp3:controller	reactome:Protein8613
-reactome:Catalysis5444	bp3:controller	reactome:Complex13383
-reactome:Catalysis5441	bp3:controller	reactome:Complex13383
-reactome:Catalysis5443	bp3:controller	reactome:Complex13383
-reactome:Catalysis5440	bp3:controller	reactome:Complex4454
-reactome:Catalysis5439	bp3:controller	reactome:Complex13382
-reactome:Catalysis5442	bp3:controller	reactome:Complex13383
-reactome:Catalysis5438	bp3:controller	reactome:Complex13379
-reactome:Catalysis5437	bp3:controller	reactome:Complex13377
-reactome:BiochemicalReaction12392	bp3:displayName	GRB2:SOS1 complex binds to EGF:EGFR complex
-reactome:BiochemicalReaction12391	bp3:displayName	GRB2-1 binds SOS1
-reactome:BiochemicalReaction12393	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
-reactome:BiochemicalReaction12389	bp3:displayName	EGFR activates PLC-gamma1 by phosphorylation
-reactome:BiochemicalReaction12390	bp3:displayName	Active PLC-gamma1 dissociates from EGFR
-reactome:BiochemicalReaction12388	bp3:displayName	Phospholipase C-gamma1 binds to the activated EGF receptor
-reactome:BiochemicalReaction12423	bp3:displayName	EGFR non-clathrin mediated endocytosis
-reactome:BiochemicalReaction12413	bp3:displayName	CBL binds to GRB2
-reactome:BiochemicalReaction12410	bp3:displayName	Phosphorylation of CBL (EGFR:CBL)
-reactome:BiochemicalReaction12429	bp3:displayName	EGFR phosphorylates EPS15
-reactome:BiochemicalReaction12409	bp3:displayName	Binding of CBL to EGFR
-reactome:BiochemicalReaction12411	bp3:displayName	CBL binds and ubiquitinates phosphorylated Sprouty
-reactome:BiochemicalReaction12419	bp3:displayName	Beta-Pix pushes CIN85 away from CBL
-reactome:BiochemicalReaction12420	bp3:displayName	CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
-reactome:BiochemicalReaction12416	bp3:displayName	Ubiquitination of stimulated EGFR (CBL:GRB2)
-reactome:BiochemicalReaction12425	bp3:displayName	CBL-mediated ubiquitination of CIN85
-reactome:BiochemicalReaction12430	bp3:displayName	PTPN3 dephosphorylates EPS15
-reactome:BiochemicalReaction12424	bp3:displayName	CBL ubiquitinates Sprouty
-reactome:BiochemicalReaction12412	bp3:displayName	Ubiquitination of stimulated EGFR (CBL)
-reactome:BiochemicalReaction12421	bp3:displayName	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
-reactome:BiochemicalReaction12426	bp3:displayName	Sprouty sequesters CBL away from active EGFR
-reactome:BiochemicalReaction12418	bp3:displayName	CDC42:GTP binds CBL:Beta-Pix
-reactome:BiochemicalReaction12428	bp3:displayName	EGFR binds EPS15, EPN1, EPS15L1
-reactome:BiochemicalReaction12415	bp3:displayName	Phosphorylation of CBL (EGFR:GRB2:CBL)
-reactome:BiochemicalReaction12422	bp3:displayName	Assembly of EGFR complex in clathrin-coated vesicles
-reactome:BiochemicalReaction12417	bp3:displayName	Sprouty lures CBL away from EGFR
-reactome:BiochemicalReaction12414	bp3:displayName	Localization of CBL:GRB2 to the membrane
-reactome:BiochemicalReaction12427	bp3:displayName	PTPN12 dephosphorylates EGFR at Y1172 (Y1148)
-reactome:BiochemicalReaction12408	bp3:displayName	Sustained activation of SRC kinase by SHP2
-reactome:BiochemicalReaction12405	bp3:displayName	Dephosphorylation of Gab1 by SHP2
-reactome:BiochemicalReaction12400	bp3:displayName	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
-reactome:BiochemicalReaction12398	bp3:displayName	Binding of GRB2 to GAB1
-reactome:BiochemicalReaction12404	bp3:displayName	Activation of SHP2 through the binding to phospho-Gab1
-reactome:BiochemicalReaction12407	bp3:displayName	Dephosphorylation of PAG by SHP2
-reactome:BiochemicalReaction12403	bp3:displayName	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
-reactome:BiochemicalReaction12399	bp3:displayName	GRB2:GAB1 binds to phosphorylated EGFR
-reactome:BiochemicalReaction12401	bp3:displayName	GAB1 phosphorylation by EGFR kinase
-reactome:BiochemicalReaction12406	bp3:displayName	SHP2 dephosphorylates Tyr 992 on EGFR
-reactome:BiochemicalReaction12402	bp3:displayName	PI3K binds to EGF:EGFR:GRB2:GAB1
-reactome:BiochemicalReaction12396	bp3:displayName	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
-reactome:BiochemicalReaction12397	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
-reactome:BiochemicalReaction12394	bp3:displayName	SHC1 binds to the phosphorylated EGF receptor:ligand complex
-reactome:BiochemicalReaction12395	bp3:displayName	SHC1 phosphorylation by phosphorylated EGFR
-reactome:PathwayStep14662	bp3:nextStep	reactome:PathwayStep16677
-reactome:PathwayStep14662	bp3:nextStep	reactome:PathwayStep14663
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep14667
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep15089
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep3294
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep14662
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep15106
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep14913
-reactome:PathwayStep14661	bp3:nextStep	reactome:PathwayStep15391
-reactome:PathwayStep14658	bp3:nextStep	reactome:PathwayStep14659
-reactome:PathwayStep14659	bp3:nextStep	reactome:PathwayStep2747
-reactome:PathwayStep14657	bp3:nextStep	reactome:PathwayStep14658
-reactome:PathwayStep14696	bp3:nextStep	reactome:PathwayStep14698
-reactome:PathwayStep14696	bp3:nextStep	reactome:PathwayStep14699
-reactome:PathwayStep14686	bp3:nextStep	reactome:PathwayStep3291
-reactome:PathwayStep14686	bp3:nextStep	reactome:PathwayStep14687
-reactome:PathwayStep14683	bp3:nextStep	reactome:PathwayStep14684
-reactome:PathwayStep14683	bp3:nextStep	reactome:PathwayStep14685
-reactome:PathwayStep14702	bp3:nextStep	reactome:PathwayStep14703
-reactome:PathwayStep14682	bp3:nextStep	reactome:PathwayStep14683
-reactome:PathwayStep14692	bp3:nextStep	reactome:PathwayStep14693
-reactome:PathwayStep14693	bp3:nextStep	reactome:PathwayStep14694
-reactome:PathwayStep14701	bp3:nextStep	reactome:PathwayStep14702
-reactome:PathwayStep14688	bp3:nextStep	reactome:PathwayStep14689
-reactome:PathwayStep14695	bp3:nextStep	reactome:PathwayStep14701
-reactome:PathwayStep14687	bp3:nextStep	reactome:PathwayStep14688
-reactome:PathwayStep14672	bp3:nextStep	reactome:PathwayStep14671
-reactome:PathwayStep14670	bp3:nextStep	reactome:PathwayStep14739
-reactome:PathwayStep14670	bp3:nextStep	reactome:PathwayStep14671
-reactome:PathwayStep14676	bp3:nextStep	reactome:PathwayStep14677
-reactome:PathwayStep14676	bp3:nextStep	reactome:PathwayStep14679
-reactome:PathwayStep14676	bp3:nextStep	reactome:PathwayStep14678
-reactome:PathwayStep14679	bp3:nextStep	reactome:PathwayStep14680
-reactome:PathwayStep14675	bp3:nextStep	reactome:PathwayStep14672
-reactome:PathwayStep14671	bp3:nextStep	reactome:PathwayStep14673
-reactome:PathwayStep14673	bp3:nextStep	reactome:PathwayStep14676
-reactome:PathwayStep14673	bp3:nextStep	reactome:PathwayStep14674
-reactome:PathwayStep14674	bp3:nextStep	reactome:PathwayStep14675
-reactome:PathwayStep14674	bp3:nextStep	reactome:PathwayStep16785
-reactome:PathwayStep14667	bp3:nextStep	reactome:PathwayStep14668
-reactome:PathwayStep14667	bp3:nextStep	reactome:PathwayStep16677
-reactome:PathwayStep14665	bp3:nextStep	reactome:PathwayStep14666
-reactome:PathwayStep14666	bp3:nextStep	reactome:PathwayStep14667
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5443
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1390
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5442
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5440
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1393
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1392
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5444
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1391
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5445
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5446
+reactome:Pathway1389	bp3:pathwayComponent	reactome:Pathway1394
+reactome:Pathway1389	bp3:pathwayComponent	reactome:BiochemicalReaction5441
+reactome:BiochemicalReaction5442	bp3:left	reactome:Protein19151
+reactome:BiochemicalReaction5444	bp3:left	reactome:Complex3513
+reactome:BiochemicalReaction5446	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5440	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5446	bp3:left	reactome:Complex3512
+reactome:BiochemicalReaction5441	bp3:left	reactome:Protein8750
+reactome:BiochemicalReaction5446	bp3:participantStoichiometry	reactome:Stoichiometry18895
+reactome:BiochemicalReaction5442	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5444	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5441	bp3:displayName	AAMP binds EGFR
+reactome:BiochemicalReaction5443	bp3:right	reactome:Complex3513
+reactome:BiochemicalReaction5443	bp3:displayName	EGFR binds EGF ligand
+reactome:BiochemicalReaction5442	bp3:right	reactome:Complex7537
+reactome:BiochemicalReaction5445	bp3:right	reactome:Complex3916
+reactome:BiochemicalReaction5445	bp3:displayName	EGFR autophosphorylation
+reactome:BiochemicalReaction5440	bp3:right	reactome:Protein8712
+reactome:BiochemicalReaction5441	bp3:right	reactome:Complex7536
+reactome:BiochemicalReaction5443	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5446	bp3:right	reactome:Complex3916
+reactome:BiochemicalReaction5442	bp3:left	reactome:Protein8750
+reactome:BiochemicalReaction5446	bp3:displayName	Phosphorylation of EGFR by SRC kinase
+reactome:BiochemicalReaction5441	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5443	bp3:left	reactome:Protein8751
+reactome:BiochemicalReaction5444	bp3:right	reactome:Complex3512
+reactome:BiochemicalReaction5445	bp3:participantStoichiometry	reactome:Stoichiometry18892
+reactome:BiochemicalReaction5440	bp3:left	reactome:Protein19148
+reactome:BiochemicalReaction5441	bp3:left	reactome:Protein7558
+reactome:BiochemicalReaction5446	bp3:participantStoichiometry	reactome:Stoichiometry18894
+reactome:BiochemicalReaction5444	bp3:displayName	EGFR dimerization
+reactome:BiochemicalReaction5445	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5445	bp3:participantStoichiometry	reactome:Stoichiometry18893
+reactome:BiochemicalReaction5442	bp3:displayName	FAM83B, (FAM83A, FAM83D) bind EGFR
+reactome:BiochemicalReaction5445	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5444	bp3:participantStoichiometry	reactome:Stoichiometry18891
+reactome:BiochemicalReaction5446	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5443	bp3:left	reactome:Protein8750
+reactome:BiochemicalReaction5445	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5446	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5445	bp3:left	reactome:Complex3512
+reactome:BiochemicalReaction5440	bp3:displayName	Pro-EGF is cleaved to form mature EGF
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5471
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5466
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5479
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6866
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6861
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5475
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6843
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6836
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6872
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6834
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5477
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6867
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6865
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6841
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5488
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6860
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5455
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6871
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5489
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5473
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5459
+reactome:Pathway1390	bp3:pathwayComponent	reactome:BiochemicalReaction5447
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6870
+reactome:Pathway1390	bp3:pathwayComponent	reactome:BiochemicalReaction5449
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5472
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6846
+reactome:Pathway1391	bp3:pathwayOrder	reactome:PathwayStep6831
+reactome:Pathway1392	bp3:displayName	SHC1 events in EGFR signaling
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6862
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5486
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5478
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6852
+reactome:Pathway1393	bp3:displayName	GAB1 signalosome
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5483
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5482
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6849
+reactome:Pathway1390	bp3:pathwayOrder	reactome:PathwayStep6826
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5453
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6863
+reactome:Pathway1391	bp3:pathwayOrder	reactome:PathwayStep6832
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5462
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6859
+reactome:Pathway1394	bp3:displayName	EGFR downregulation
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5464
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5474
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5458
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6837
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5461
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6839
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6844
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5476
+reactome:Pathway1390	bp3:pathwayOrder	reactome:PathwayStep6827
+reactome:Pathway1390	bp3:displayName	EGFR interacts with phospholipase C-gamma
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5456
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6851
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6854
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5457
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5480
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5485
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5460
+reactome:Pathway1391	bp3:displayName	GRB2 events in EGFR signaling
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6853
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5484
+reactome:Pathway1391	bp3:pathwayComponent	reactome:BiochemicalReaction5451
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6855
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6869
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6848
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6840
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6858
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6864
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5468
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5467
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5465
+reactome:Pathway1390	bp3:pathwayOrder	reactome:PathwayStep6828
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6868
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6856
+reactome:Pathway1390	bp3:pathwayComponent	reactome:BiochemicalReaction5448
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6842
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5463
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6845
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6847
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5454
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5469
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6857
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5481
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6835
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5487
+reactome:Pathway1391	bp3:pathwayComponent	reactome:BiochemicalReaction5452
+reactome:Pathway1391	bp3:pathwayComponent	reactome:BiochemicalReaction5450
+reactome:Pathway1391	bp3:pathwayOrder	reactome:PathwayStep6830
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5470
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6873
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6824
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6838
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6850
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6819
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6821
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6823
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6820
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6833
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6822
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6825
+reactome:Pathway1389	bp3:pathwayOrder	reactome:PathwayStep6829
+reactome:PathwayStep6819	bp3:stepProcess	reactome:BiochemicalReaction5440
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep6840
+reactome:PathwayStep6824	bp3:stepProcess	reactome:BiochemicalReaction5445
+reactome:PathwayStep6823	bp3:nextStep	reactome:PathwayStep6824
+reactome:PathwayStep6825	bp3:nextStep	reactome:PathwayStep6851
+reactome:PathwayStep6829	bp3:stepProcess	reactome:Pathway1390
+reactome:PathwayStep6822	bp3:nextStep	reactome:PathwayStep7468
+reactome:PathwayStep6822	bp3:stepProcess	reactome:Control746
+reactome:PathwayStep6825	bp3:nextStep	reactome:PathwayStep6840
+reactome:PathwayStep6820	bp3:stepProcess	reactome:BiochemicalReaction5441
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep6831
+reactome:PathwayStep6820	bp3:nextStep	reactome:PathwayStep6823
+reactome:PathwayStep6822	bp3:stepProcess	reactome:BiochemicalReaction5443
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep8884
+reactome:PathwayStep6819	bp3:nextStep	reactome:PathwayStep6822
+reactome:PathwayStep6821	bp3:stepProcess	reactome:BiochemicalReaction5442
+reactome:PathwayStep6825	bp3:nextStep	reactome:PathwayStep6831
+reactome:PathwayStep6822	bp3:nextStep	reactome:PathwayStep7525
+reactome:PathwayStep6824	bp3:stepProcess	reactome:Catalysis2347
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep6826
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep6856
+reactome:PathwayStep6824	bp3:stepProcess	reactome:Control748
+reactome:PathwayStep6825	bp3:stepProcess	reactome:BiochemicalReaction5446
+reactome:PathwayStep6873	bp3:stepProcess	reactome:Pathway1394
+reactome:PathwayStep6833	bp3:stepProcess	reactome:Pathway1391
+reactome:PathwayStep6822	bp3:nextStep	reactome:PathwayStep6823
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep6834
+reactome:PathwayStep6821	bp3:nextStep	reactome:PathwayStep6824
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep8397
+reactome:PathwayStep6825	bp3:nextStep	reactome:PathwayStep6826
+reactome:PathwayStep6825	bp3:stepProcess	reactome:Catalysis2348
+reactome:PathwayStep6825	bp3:nextStep	reactome:PathwayStep6856
+reactome:PathwayStep6823	bp3:nextStep	reactome:PathwayStep3243
+reactome:PathwayStep6838	bp3:stepProcess	reactome:Pathway1392
+reactome:PathwayStep6823	bp3:stepProcess	reactome:Control747
+reactome:PathwayStep6825	bp3:nextStep	reactome:PathwayStep6834
+reactome:PathwayStep6850	bp3:stepProcess	reactome:Pathway1393
+reactome:PathwayStep6823	bp3:stepProcess	reactome:BiochemicalReaction5444
+reactome:PathwayStep6819	bp3:stepProcess	reactome:Catalysis2346
+reactome:PathwayStep6824	bp3:nextStep	reactome:PathwayStep6851
+reactome:PathwayStep6823	bp3:nextStep	reactome:PathwayStep6825
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5466
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5479
+reactome:BiochemicalReaction5442	bp3:left	reactome:Protein19151
+reactome:Catalysis2348	bp3:controller	reactome:Protein19156
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5475
+reactome:Catalysis2348	bp3:controlled	reactome:BiochemicalReaction5446
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5477
+reactome:BiochemicalReaction5442	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6841
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5488
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6860
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5455
+reactome:Control748	bp3:controller	reactome:Complex7537
+reactome:Catalysis2346	bp3:controller	reactome:Complex7535
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6871
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5473
+reactome:Pathway1390	bp3:pathwayComponent	reactome:BiochemicalReaction5447
+reactome:BiochemicalReaction5441	bp3:right	reactome:Complex7536
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6870
+reactome:BiochemicalReaction5443	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5472
+reactome:Pathway1392	bp3:displayName	SHC1 events in EGFR signaling
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5486
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5478
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6852
+reactome:BiochemicalReaction5441	bp3:left	reactome:Protein7558
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6849
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5462
+reactome:Catalysis2346	bp3:controlled	reactome:BiochemicalReaction5440
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6859
+reactome:Control746	bp3:controller	reactome:Protein19155
+reactome:BiochemicalReaction5442	bp3:displayName	FAM83B, (FAM83A, FAM83D) bind EGFR
+reactome:BiochemicalReaction5446	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5443	bp3:left	reactome:Protein8750
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5464
+reactome:BiochemicalReaction5446	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5474
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6837
+reactome:BiochemicalReaction5444	bp3:left	reactome:Complex3513
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6839
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5476
+reactome:Pathway1390	bp3:displayName	EGFR interacts with phospholipase C-gamma
+reactome:Control748	bp3:controlled	reactome:BiochemicalReaction5445
+reactome:BiochemicalReaction5446	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5440	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5480
+reactome:BiochemicalReaction5441	bp3:left	reactome:Protein8750
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5460
+reactome:Pathway1391	bp3:displayName	GRB2 events in EGFR signaling
+reactome:BiochemicalReaction5443	bp3:right	reactome:Complex3513
+reactome:BiochemicalReaction5442	bp3:right	reactome:Complex7537
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6853
+reactome:BiochemicalReaction5442	bp3:left	reactome:Protein8750
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6858
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6864
+reactome:BiochemicalReaction5445	bp3:participantStoichiometry	reactome:Stoichiometry18892
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5467
+reactome:BiochemicalReaction5440	bp3:left	reactome:Protein19148
+reactome:Pathway1390	bp3:pathwayOrder	reactome:PathwayStep6828
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6868
+reactome:Pathway1390	bp3:pathwayComponent	reactome:BiochemicalReaction5448
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6842
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5463
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6845
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6857
+reactome:BiochemicalReaction5445	bp3:right	reactome:SmallMolecule28
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6835
+reactome:Pathway1391	bp3:pathwayComponent	reactome:BiochemicalReaction5452
+reactome:BiochemicalReaction5445	bp3:left	reactome:SmallMolecule27
+reactome:Pathway1391	bp3:pathwayComponent	reactome:BiochemicalReaction5450
+reactome:Pathway1391	bp3:pathwayOrder	reactome:PathwayStep6830
+reactome:BiochemicalReaction5440	bp3:displayName	Pro-EGF is cleaved to form mature EGF
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5471
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5470
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6866
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6861
+reactome:Catalysis2347	bp3:controlled	reactome:BiochemicalReaction5445
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6843
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6836
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6872
+reactome:BiochemicalReaction5446	bp3:left	reactome:Complex3512
+reactome:Pathway1392	bp3:pathwayOrder	reactome:PathwayStep6834
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6867
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6865
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5487
+reactome:BiochemicalReaction5441	bp3:displayName	AAMP binds EGFR
+reactome:Control746	bp3:controlled	reactome:BiochemicalReaction5443
+reactome:Catalysis2347	bp3:controller	reactome:Complex3512
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5489
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5459
+reactome:BiochemicalReaction5445	bp3:right	reactome:Complex3916
+reactome:BiochemicalReaction5445	bp3:displayName	EGFR autophosphorylation
+reactome:BiochemicalReaction5440	bp3:right	reactome:Protein8712
+reactome:BiochemicalReaction5446	bp3:right	reactome:Complex3916
+reactome:Pathway1390	bp3:pathwayComponent	reactome:BiochemicalReaction5449
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6846
+reactome:Pathway1391	bp3:pathwayOrder	reactome:PathwayStep6831
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6862
+reactome:BiochemicalReaction5446	bp3:displayName	Phosphorylation of EGFR by SRC kinase
+reactome:Pathway1393	bp3:displayName	GAB1 signalosome
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5483
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5482
+reactome:Pathway1390	bp3:pathwayOrder	reactome:PathwayStep6826
+reactome:Control747	bp3:controller	reactome:Complex7536
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5453
+reactome:BiochemicalReaction5446	bp3:participantStoichiometry	reactome:Stoichiometry18894
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6863
+reactome:Pathway1391	bp3:pathwayOrder	reactome:PathwayStep6832
+reactome:BiochemicalReaction5445	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:Pathway1394	bp3:displayName	EGFR downregulation
+reactome:BiochemicalReaction5445	bp3:participantStoichiometry	reactome:Stoichiometry18893
+reactome:BiochemicalReaction5444	bp3:participantStoichiometry	reactome:Stoichiometry18891
+reactome:BiochemicalReaction5445	bp3:left	reactome:Complex3512
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5458
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5461
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6844
+reactome:Pathway1390	bp3:pathwayOrder	reactome:PathwayStep6827
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5456
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6851
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6854
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5457
+reactome:BiochemicalReaction5446	bp3:participantStoichiometry	reactome:Stoichiometry18895
+reactome:BiochemicalReaction5444	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5485
+reactome:BiochemicalReaction5443	bp3:displayName	EGFR binds EGF ligand
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5484
+reactome:Pathway1391	bp3:pathwayComponent	reactome:BiochemicalReaction5451
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6855
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6869
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6848
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6840
+reactome:BiochemicalReaction5443	bp3:left	reactome:Protein8751
+reactome:BiochemicalReaction5441	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5444	bp3:right	reactome:Complex3512
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5468
+reactome:Pathway1393	bp3:pathwayComponent	reactome:BiochemicalReaction5465
+reactome:Pathway1394	bp3:pathwayOrder	reactome:PathwayStep6856
+reactome:BiochemicalReaction5444	bp3:displayName	EGFR dimerization
+reactome:Pathway1393	bp3:pathwayOrder	reactome:PathwayStep6847
+reactome:Pathway1392	bp3:pathwayComponent	reactome:BiochemicalReaction5454
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5469
+reactome:Pathway1394	bp3:pathwayComponent	reactome:BiochemicalReaction5481
+reactome:Control747	bp3:controlled	reactome:BiochemicalReaction5444
+reactome:BiochemicalReaction5481	bp3:displayName	Assembly of EGFR complex in clathrin-coated vesicles
+reactome:BiochemicalReaction5449	bp3:displayName	Active PLC-gamma1 dissociates from EGFR
+reactome:BiochemicalReaction5479	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5469	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5474	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5467	bp3:right	reactome:Protein19164
+reactome:BiochemicalReaction5447	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5468	bp3:right	reactome:Complex7557
+reactome:BiochemicalReaction5457	bp3:left	reactome:Protein7643
+reactome:BiochemicalReaction5488	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5473	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5459	bp3:displayName	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
+reactome:BiochemicalReaction5450	bp3:displayName	GRB2-1 binds SOS1
+reactome:BiochemicalReaction5488	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5469	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5449	bp3:right	reactome:Protein8743
+reactome:BiochemicalReaction5453	bp3:left	reactome:Protein7651
+reactome:BiochemicalReaction5474	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5469	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5474	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5483	bp3:right	reactome:Complex7559
+reactome:BiochemicalReaction5481	bp3:right	reactome:Complex7567
+reactome:BiochemicalReaction5467	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5471	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5480	bp3:displayName	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
+reactome:BiochemicalReaction5456	bp3:left	reactome:Complex2400
+reactome:BiochemicalReaction5479	bp3:displayName	CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
+reactome:BiochemicalReaction5477	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5488	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5483	bp3:displayName	CBL ubiquitinates Sprouty
+reactome:BiochemicalReaction5479	bp3:left	reactome:Complex7568
+reactome:BiochemicalReaction5461	bp3:right	reactome:Complex3914
+reactome:BiochemicalReaction5477	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5470	bp3:left	reactome:Protein19165
+reactome:BiochemicalReaction5448	bp3:right	reactome:Complex7539
+reactome:BiochemicalReaction5489	bp3:displayName	PTPN3 dephosphorylates EPS15
+reactome:BiochemicalReaction5489	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5465	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5478	bp3:right	reactome:Complex7568
+reactome:BiochemicalReaction5466	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5466	bp3:left	reactome:Protein19161
+reactome:BiochemicalReaction5487	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5463	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5482	bp3:displayName	EGFR non-clathrin mediated endocytosis
+reactome:BiochemicalReaction5461	bp3:left	reactome:Complex3484
+reactome:BiochemicalReaction5470	bp3:right	reactome:Complex7559
+reactome:BiochemicalReaction5479	bp3:right	reactome:Complex7569
+reactome:BiochemicalReaction5472	bp3:left	reactome:Protein7643
+reactome:BiochemicalReaction5485	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5478	bp3:left	reactome:Complex7567
+reactome:BiochemicalReaction5461	bp3:left	reactome:Complex3915
+reactome:BiochemicalReaction5474	bp3:right	reactome:Complex7563
+reactome:BiochemicalReaction5462	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5489	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5470	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5456	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5459	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5475	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5469	bp3:displayName	Phosphorylation of CBL (EGFR:CBL)
+reactome:BiochemicalReaction5487	bp3:left	reactome:Complex5269
+reactome:BiochemicalReaction5472	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5448	bp3:left	reactome:Complex7538
+reactome:BiochemicalReaction5456	bp3:right	reactome:SmallMolecule89
+reactome:BiochemicalReaction5471	bp3:displayName	Ubiquitination of stimulated EGFR (CBL)
+reactome:BiochemicalReaction5451	bp3:displayName	GRB2:SOS1 complex binds to EGF:EGFR complex
+reactome:BiochemicalReaction5485	bp3:right	reactome:Complex7576
+reactome:BiochemicalReaction5463	bp3:displayName	Activation of SHP2 through the binding to phospho-Gab1
+reactome:BiochemicalReaction5452	bp3:right	reactome:SmallMolecule89
+reactome:BiochemicalReaction5487	bp3:left	reactome:Protein17877
+reactome:BiochemicalReaction5464	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5449	bp3:right	reactome:Complex3916
+reactome:BiochemicalReaction5473	bp3:left	reactome:Complex5255
+reactome:BiochemicalReaction5456	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
+reactome:BiochemicalReaction5465	bp3:right	reactome:Complex7552
+reactome:BiochemicalReaction5467	bp3:right	reactome:Complex7556
+reactome:BiochemicalReaction5487	bp3:left	reactome:SmallMolecule45
+reactome:BiochemicalReaction5471	bp3:right	reactome:Complex7561
+reactome:BiochemicalReaction5487	bp3:displayName	EGFR binds EPS15, EPN1, EPS15L1
+reactome:BiochemicalReaction5485	bp3:displayName	Sprouty sequesters CBL away from active EGFR
+reactome:BiochemicalReaction5450	bp3:left	reactome:Protein7644
+reactome:BiochemicalReaction5452	bp3:left	reactome:Complex2400
+reactome:BiochemicalReaction5458	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5484	bp3:displayName	CBL-mediated ubiquitination of CIN85
+reactome:BiochemicalReaction5484	bp3:right	reactome:Complex7573
+reactome:BiochemicalReaction5465	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5486	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5460	bp3:left	reactome:Complex7546
+reactome:BiochemicalReaction5459	bp3:left	reactome:Complex3482
+reactome:BiochemicalReaction5461	bp3:displayName	PI3K binds to EGF:EGFR:GRB2:GAB1
+reactome:BiochemicalReaction5476	bp3:left	reactome:Protein19170
+reactome:BiochemicalReaction5454	bp3:right	reactome:Complex7542
+reactome:BiochemicalReaction5489	bp3:left	reactome:Complex7582
+reactome:BiochemicalReaction5486	bp3:left	reactome:Complex7577
+reactome:BiochemicalReaction5450	bp3:left	reactome:Protein7643
+reactome:BiochemicalReaction5480	bp3:right	reactome:Complex7562
+reactome:BiochemicalReaction5448	bp3:displayName	EGFR activates PLC-gamma1 by phosphorylation
+reactome:BiochemicalReaction5474	bp3:left	reactome:Complex7562
+reactome:BiochemicalReaction5464	bp3:right	reactome:Complex7548
+reactome:BiochemicalReaction5468	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5448	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5457	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5468	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5460	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5467	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5457	bp3:left	reactome:Protein8741
+reactome:BiochemicalReaction5482	bp3:left	reactome:Complex7558
+reactome:BiochemicalReaction5481	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5450	bp3:right	reactome:Complex3477
+reactome:BiochemicalReaction5480	bp3:right	reactome:Complex7570
+reactome:BiochemicalReaction5457	bp3:displayName	Binding of GRB2 to GAB1
+reactome:BiochemicalReaction5458	bp3:left	reactome:Complex7544
+reactome:BiochemicalReaction5467	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5481	bp3:left	reactome:Complex5262
+reactome:BiochemicalReaction5456	bp3:left	reactome:SmallMolecule88
+reactome:BiochemicalReaction5467	bp3:displayName	Sustained activation of SRC kinase by SHP2
+reactome:BiochemicalReaction5454	bp3:displayName	SHC1 phosphorylation by phosphorylated EGFR
+reactome:BiochemicalReaction5448	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5483	bp3:left	reactome:Complex7572
+reactome:BiochemicalReaction5452	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5460	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5488	bp3:left	reactome:Complex7581
+reactome:BiochemicalReaction5468	bp3:displayName	Binding of CBL to EGFR
+reactome:BiochemicalReaction5451	bp3:left	reactome:Complex3477
+reactome:BiochemicalReaction5480	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5472	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5453	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5477	bp3:left	reactome:Complex7565
+reactome:BiochemicalReaction5453	bp3:right	reactome:Complex7541
+reactome:BiochemicalReaction5482	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5482	bp3:left	reactome:Protein17884
+reactome:BiochemicalReaction5482	bp3:left	reactome:Complex5262
+reactome:BiochemicalReaction5454	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5462	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5483	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5473	bp3:displayName	Localization of CBL:GRB2 to the membrane
+reactome:BiochemicalReaction5466	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5454	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5456	bp3:right	reactome:Complex2401
+reactome:BiochemicalReaction5475	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5462	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5485	bp3:left	reactome:Complex7571
+reactome:BiochemicalReaction5478	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5486	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5451	bp3:right	reactome:Complex7540
+reactome:BiochemicalReaction5476	bp3:right	reactome:Complex7564
+reactome:BiochemicalReaction5478	bp3:displayName	Beta-Pix pushes CIN85 away from CBL
+reactome:BiochemicalReaction5455	bp3:left	reactome:Complex3477
+reactome:BiochemicalReaction5458	bp3:right	reactome:Complex7546
+reactome:BiochemicalReaction5482	bp3:left	reactome:Complex5269
+reactome:BiochemicalReaction5471	bp3:left	reactome:Complex7558
+reactome:BiochemicalReaction5447	bp3:displayName	Phospholipase C-gamma1 binds to the activated EGF receptor
+reactome:BiochemicalReaction5457	bp3:right	reactome:Complex3482
+reactome:BiochemicalReaction5470	bp3:displayName	CBL binds and ubiquitinates phosphorylated Sprouty
+reactome:BiochemicalReaction5463	bp3:right	reactome:Complex7547
+reactome:BiochemicalReaction5465	bp3:displayName	SHP2 dephosphorylates Tyr 992 on EGFR
+reactome:BiochemicalReaction5470	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5447	bp3:left	reactome:Protein8102
+reactome:BiochemicalReaction5488	bp3:displayName	EGFR phosphorylates EPS15
+reactome:BiochemicalReaction5460	bp3:displayName	GAB1 phosphorylation by EGFR kinase
+reactome:BiochemicalReaction5480	bp3:left	reactome:Complex7569
+reactome:BiochemicalReaction5452	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
+reactome:BiochemicalReaction5447	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5475	bp3:left	reactome:Complex7563
+reactome:BiochemicalReaction5472	bp3:displayName	CBL binds to GRB2
+reactome:BiochemicalReaction5458	bp3:displayName	GRB2:GAB1 binds to phosphorylated EGFR
+reactome:BiochemicalReaction5475	bp3:right	reactome:Complex6798
+reactome:BiochemicalReaction5489	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5487	bp3:right	reactome:Complex7581
+reactome:BiochemicalReaction5464	bp3:displayName	Dephosphorylation of Gab1 by SHP2
+reactome:BiochemicalReaction5464	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5474	bp3:displayName	Phosphorylation of CBL (EGFR:GRB2:CBL)
+reactome:BiochemicalReaction5452	bp3:left	reactome:SmallMolecule88
+reactome:BiochemicalReaction5454	bp3:left	reactome:Complex7541
+reactome:BiochemicalReaction5455	bp3:displayName	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
+reactome:BiochemicalReaction5463	bp3:left	reactome:Complex3915
+reactome:BiochemicalReaction5484	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5486	bp3:right	reactome:Complex7579
+reactome:BiochemicalReaction5455	bp3:left	reactome:Complex7542
+reactome:BiochemicalReaction5464	bp3:left	reactome:Complex7547
+reactome:BiochemicalReaction5469	bp3:right	reactome:Complex7558
+reactome:BiochemicalReaction5486	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5459	bp3:right	reactome:Complex7545
+reactome:BiochemicalReaction5451	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5473	bp3:right	reactome:Complex7562
+reactome:BiochemicalReaction5467	bp3:left	reactome:Complex7555
+reactome:BiochemicalReaction5454	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5448	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5465	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5460	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5460	bp3:right	reactome:Complex3915
+reactome:BiochemicalReaction5489	bp3:right	reactome:Complex7581
+reactome:BiochemicalReaction5450	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5453	bp3:displayName	SHC1 binds to the phosphorylated EGF receptor:ligand complex
+reactome:BiochemicalReaction5463	bp3:left	reactome:Protein7532
+reactome:BiochemicalReaction5487	bp3:left	reactome:Complex7567
+reactome:BiochemicalReaction5449	bp3:left	reactome:Complex7539
+reactome:BiochemicalReaction5477	bp3:displayName	CDC42:GTP binds CBL:Beta-Pix
+reactome:BiochemicalReaction5484	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5465	bp3:left	reactome:Complex7547
+reactome:BiochemicalReaction5452	bp3:right	reactome:Complex2401
+reactome:BiochemicalReaction5485	bp3:left	reactome:Protein19174
+reactome:BiochemicalReaction5479	bp3:right	reactome:Complex5262
+reactome:BiochemicalReaction5480	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5449	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5466	bp3:displayName	Dephosphorylation of PAG by SHP2
+reactome:BiochemicalReaction5459	bp3:left	reactome:SmallMolecule44
+reactome:BiochemicalReaction5455	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5483	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5482	bp3:left	reactome:Protein17877
+reactome:BiochemicalReaction5470	bp3:left	reactome:Complex7558
+reactome:BiochemicalReaction5466	bp3:right	reactome:Protein19162
+reactome:BiochemicalReaction5469	bp3:left	reactome:Complex7557
+reactome:BiochemicalReaction5482	bp3:right	reactome:Complex7571
+reactome:BiochemicalReaction5462	bp3:left	reactome:SmallMolecule45
+reactome:BiochemicalReaction5455	bp3:right	reactome:Complex7543
+reactome:BiochemicalReaction5462	bp3:right	reactome:SmallMolecule44
+reactome:BiochemicalReaction5484	bp3:left	reactome:Complex7571
+reactome:BiochemicalReaction5486	bp3:displayName	PTPN12 dephosphorylates EGFR at Y1172 (Y1148)
+reactome:BiochemicalReaction5473	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5481	bp3:left	reactome:Complex7563
+reactome:BiochemicalReaction5477	bp3:right	reactome:Complex7566
+reactome:BiochemicalReaction5468	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5488	bp3:right	reactome:Complex7582
+reactome:BiochemicalReaction5476	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5476	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5472	bp3:right	reactome:Complex5255
+reactome:BiochemicalReaction5471	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5466	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5453	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5461	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5475	bp3:displayName	Ubiquitination of stimulated EGFR (CBL:GRB2)
+reactome:BiochemicalReaction5462	bp3:displayName	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
+reactome:BiochemicalReaction5458	bp3:conversionDirection	LEFT-TO-RIGHT
+reactome:BiochemicalReaction5451	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5487	bp3:left	reactome:Protein17884
+reactome:BiochemicalReaction5447	bp3:right	reactome:Complex7538
+reactome:BiochemicalReaction5478	bp3:left	reactome:Complex7565
+reactome:BiochemicalReaction5464	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5476	bp3:displayName	Sprouty lures CBL away from EGFR
+reactome:PathwayStep6867	bp3:stepProcess	reactome:Catalysis2366
+reactome:PathwayStep6835	bp3:stepProcess	reactome:Catalysis2351
+reactome:PathwayStep6872	bp3:stepProcess	reactome:Catalysis2369
+reactome:PathwayStep6851	bp3:stepProcess	reactome:BiochemicalReaction5468
+reactome:PathwayStep6858	bp3:stepProcess	reactome:Catalysis2363
+reactome:PathwayStep6855	bp3:stepProcess	reactome:BiochemicalReaction5472
+reactome:PathwayStep6866	bp3:stepProcess	reactome:BiochemicalReaction5483
+reactome:PathwayStep6847	bp3:stepProcess	reactome:Catalysis2356
+reactome:PathwayStep6830	bp3:stepProcess	reactome:BiochemicalReaction5450
+reactome:PathwayStep6862	bp3:stepProcess	reactome:BiochemicalReaction5479
+reactome:PathwayStep6842	bp3:stepProcess	reactome:Catalysis2353
+reactome:PathwayStep6832	bp3:stepProcess	reactome:BiochemicalReaction5452
+reactome:PathwayStep6828	bp3:stepProcess	reactome:BiochemicalReaction5449
+reactome:PathwayStep6852	bp3:stepProcess	reactome:BiochemicalReaction5469
+reactome:PathwayStep6827	bp3:stepProcess	reactome:BiochemicalReaction5448
+reactome:PathwayStep6846	bp3:stepProcess	reactome:BiochemicalReaction5464
+reactome:PathwayStep6844	bp3:stepProcess	reactome:Catalysis2354
+reactome:PathwayStep6831	bp3:stepProcess	reactome:BiochemicalReaction5451
+reactome:PathwayStep6861	bp3:stepProcess	reactome:BiochemicalReaction5478
+reactome:PathwayStep6842	bp3:stepProcess	reactome:BiochemicalReaction5460
+reactome:PathwayStep6848	bp3:stepProcess	reactome:BiochemicalReaction5466
+reactome:PathwayStep6848	bp3:stepProcess	reactome:Catalysis2357
+reactome:PathwayStep6865	bp3:stepProcess	reactome:BiochemicalReaction5482
+reactome:PathwayStep6870	bp3:stepProcess	reactome:BiochemicalReaction5487
+reactome:PathwayStep6844	bp3:stepProcess	reactome:BiochemicalReaction5462
+reactome:PathwayStep6871	bp3:stepProcess	reactome:BiochemicalReaction5488
+reactome:PathwayStep6864	bp3:stepProcess	reactome:BiochemicalReaction5481
+reactome:PathwayStep6857	bp3:stepProcess	reactome:BiochemicalReaction5474
+reactome:PathwayStep6872	bp3:stepProcess	reactome:BiochemicalReaction5489
+reactome:PathwayStep6854	bp3:stepProcess	reactome:Catalysis2361
+reactome:PathwayStep6863	bp3:stepProcess	reactome:BiochemicalReaction5480
+reactome:PathwayStep6837	bp3:stepProcess	reactome:Catalysis2352
+reactome:PathwayStep6852	bp3:stepProcess	reactome:Catalysis2359
+reactome:PathwayStep6843	bp3:stepProcess	reactome:BiochemicalReaction5461
+reactome:PathwayStep6846	bp3:stepProcess	reactome:Catalysis2355
+reactome:PathwayStep6827	bp3:stepProcess	reactome:Catalysis2349
+reactome:PathwayStep6857	bp3:stepProcess	reactome:Catalysis2362
+reactome:PathwayStep6834	bp3:stepProcess	reactome:BiochemicalReaction5453
+reactome:PathwayStep6839	bp3:stepProcess	reactome:BiochemicalReaction5457
+reactome:PathwayStep6866	bp3:stepProcess	reactome:Catalysis2365
+reactome:PathwayStep6836	bp3:stepProcess	reactome:BiochemicalReaction5455
+reactome:PathwayStep6826	bp3:stepProcess	reactome:BiochemicalReaction5447
+reactome:PathwayStep6869	bp3:stepProcess	reactome:Catalysis2367
+reactome:PathwayStep6868	bp3:stepProcess	reactome:BiochemicalReaction5485
+reactome:PathwayStep6847	bp3:stepProcess	reactome:BiochemicalReaction5465
+reactome:PathwayStep6859	bp3:stepProcess	reactome:BiochemicalReaction5476
+reactome:PathwayStep6854	bp3:stepProcess	reactome:BiochemicalReaction5471
+reactome:PathwayStep6858	bp3:stepProcess	reactome:Control749
+reactome:PathwayStep6849	bp3:stepProcess	reactome:BiochemicalReaction5467
+reactome:PathwayStep6858	bp3:stepProcess	reactome:BiochemicalReaction5475
+reactome:PathwayStep6871	bp3:stepProcess	reactome:Catalysis2368
+reactome:PathwayStep6849	bp3:stepProcess	reactome:Catalysis2358
+reactome:PathwayStep6869	bp3:stepProcess	reactome:BiochemicalReaction5486
+reactome:PathwayStep6860	bp3:stepProcess	reactome:BiochemicalReaction5477
+reactome:PathwayStep6853	bp3:stepProcess	reactome:Catalysis2360
+reactome:PathwayStep6853	bp3:stepProcess	reactome:BiochemicalReaction5470
+reactome:PathwayStep6863	bp3:stepProcess	reactome:Catalysis2364
+reactome:PathwayStep6840	bp3:stepProcess	reactome:BiochemicalReaction5458
+reactome:PathwayStep6835	bp3:stepProcess	reactome:BiochemicalReaction5454
+reactome:PathwayStep6832	bp3:stepProcess	reactome:Catalysis2350
+reactome:PathwayStep6867	bp3:stepProcess	reactome:BiochemicalReaction5484
+reactome:PathwayStep6841	bp3:stepProcess	reactome:BiochemicalReaction5459
+reactome:PathwayStep6856	bp3:stepProcess	reactome:BiochemicalReaction5473
+reactome:PathwayStep6845	bp3:stepProcess	reactome:BiochemicalReaction5463
+reactome:PathwayStep6837	bp3:stepProcess	reactome:BiochemicalReaction5456
+reactome:BiochemicalReaction5481	bp3:displayName	Assembly of EGFR complex in clathrin-coated vesicles
+reactome:BiochemicalReaction5478	bp3:participantStoichiometry	reactome:Stoichiometry18978
+reactome:Catalysis2362	bp3:controller	reactome:Complex7562
+reactome:Catalysis2356	bp3:controller	reactome:Complex7547
+reactome:BiochemicalReaction5447	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5457	bp3:left	reactome:Protein7643
+reactome:BiochemicalReaction5488	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5459	bp3:displayName	GAB1 binds phosphatidylinositol-3,4,5-trisphosphate
+reactome:Catalysis2352	bp3:controlled	reactome:BiochemicalReaction5456
+reactome:BiochemicalReaction5469	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5449	bp3:right	reactome:Protein8743
+reactome:BiochemicalReaction5469	bp3:left	reactome:SmallMolecule27
+reactome:Catalysis2358	bp3:controller	reactome:Complex7547
+reactome:BiochemicalReaction5480	bp3:participantStoichiometry	reactome:Stoichiometry18987
+reactome:BiochemicalReaction5481	bp3:right	reactome:Complex7567
+reactome:BiochemicalReaction5477	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5454	bp3:participantStoichiometry	reactome:Stoichiometry18906
+reactome:BiochemicalReaction5474	bp3:participantStoichiometry	reactome:Stoichiometry18960
+reactome:BiochemicalReaction5489	bp3:displayName	PTPN3 dephosphorylates EPS15
+reactome:BiochemicalReaction5489	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5478	bp3:right	reactome:Complex7568
+reactome:BiochemicalReaction5461	bp3:left	reactome:Complex3484
+reactome:BiochemicalReaction5471	bp3:participantStoichiometry	reactome:Stoichiometry18952
+reactome:Control749	bp3:controlled	reactome:BiochemicalReaction5475
+reactome:BiochemicalReaction5478	bp3:left	reactome:Complex7567
+reactome:BiochemicalReaction5474	bp3:right	reactome:Complex7563
+reactome:BiochemicalReaction5470	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5464	bp3:participantStoichiometry	reactome:Stoichiometry18928
+reactome:BiochemicalReaction5487	bp3:left	reactome:Complex5269
+reactome:BiochemicalReaction5448	bp3:left	reactome:Complex7538
+reactome:BiochemicalReaction5451	bp3:displayName	GRB2:SOS1 complex binds to EGF:EGFR complex
+reactome:BiochemicalReaction5463	bp3:displayName	Activation of SHP2 through the binding to phospho-Gab1
+reactome:BiochemicalReaction5487	bp3:left	reactome:Protein17877
+reactome:Catalysis2366	bp3:controller	reactome:Complex7571
+reactome:BiochemicalReaction5486	bp3:participantStoichiometry	reactome:Stoichiometry19007
+reactome:BiochemicalReaction5449	bp3:right	reactome:Complex3916
+reactome:BiochemicalReaction5473	bp3:left	reactome:Complex5255
+reactome:BiochemicalReaction5456	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:SHC1:GRB2:SOS1)
+reactome:Catalysis2350	bp3:controller	reactome:Complex7540
+reactome:BiochemicalReaction5467	bp3:right	reactome:Complex7556
+reactome:BiochemicalReaction5487	bp3:left	reactome:SmallMolecule45
+reactome:BiochemicalReaction5471	bp3:right	reactome:Complex7561
+reactome:BiochemicalReaction5487	bp3:displayName	EGFR binds EPS15, EPN1, EPS15L1
+reactome:Catalysis2354	bp3:controller	reactome:Complex3914
+reactome:BiochemicalReaction5450	bp3:left	reactome:Protein7644
+reactome:BiochemicalReaction5459	bp3:left	reactome:Complex3482
+reactome:BiochemicalReaction5484	bp3:displayName	CBL-mediated ubiquitination of CIN85
+reactome:BiochemicalReaction5484	bp3:right	reactome:Complex7573
+reactome:BiochemicalReaction5460	bp3:left	reactome:Complex7546
+reactome:BiochemicalReaction5454	bp3:right	reactome:Complex7542
+reactome:BiochemicalReaction5486	bp3:left	reactome:Complex7577
+reactome:BiochemicalReaction5448	bp3:displayName	EGFR activates PLC-gamma1 by phosphorylation
+reactome:Catalysis2364	bp3:controller	reactome:Complex7569
+reactome:BiochemicalReaction5469	bp3:participantStoichiometry	reactome:Stoichiometry18943
+reactome:BiochemicalReaction5464	bp3:right	reactome:Complex7548
+reactome:BiochemicalReaction5468	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5467	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5482	bp3:left	reactome:Complex7558
+reactome:BiochemicalReaction5450	bp3:right	reactome:Complex3477
+reactome:BiochemicalReaction5480	bp3:right	reactome:Complex7570
+reactome:BiochemicalReaction5457	bp3:displayName	Binding of GRB2 to GAB1
+reactome:BiochemicalReaction5458	bp3:left	reactome:Complex7544
+reactome:BiochemicalReaction5460	bp3:participantStoichiometry	reactome:Stoichiometry18917
+reactome:BiochemicalReaction5454	bp3:displayName	SHC1 phosphorylation by phosphorylated EGFR
+reactome:BiochemicalReaction5483	bp3:left	reactome:Complex7572
+reactome:BiochemicalReaction5448	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5460	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5451	bp3:left	reactome:Complex3477
+reactome:BiochemicalReaction5453	bp3:right	reactome:Complex7541
+reactome:BiochemicalReaction5477	bp3:left	reactome:Complex7565
+reactome:Control749	bp3:controller	reactome:Protein19171
+reactome:BiochemicalReaction5482	bp3:left	reactome:Protein17884
+reactome:BiochemicalReaction5475	bp3:participantStoichiometry	reactome:Stoichiometry18966
+reactome:BiochemicalReaction5473	bp3:displayName	Localization of CBL:GRB2 to the membrane
+reactome:BiochemicalReaction5466	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5456	bp3:right	reactome:Complex2401
+reactome:BiochemicalReaction5475	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5485	bp3:left	reactome:Complex7571
+reactome:BiochemicalReaction5476	bp3:right	reactome:Complex7564
+reactome:BiochemicalReaction5447	bp3:displayName	Phospholipase C-gamma1 binds to the activated EGF receptor
+reactome:BiochemicalReaction5470	bp3:displayName	CBL binds and ubiquitinates phosphorylated Sprouty
+reactome:Catalysis2356	bp3:controlled	reactome:BiochemicalReaction5465
+reactome:BiochemicalReaction5463	bp3:right	reactome:Complex7547
+reactome:BiochemicalReaction5465	bp3:displayName	SHP2 dephosphorylates Tyr 992 on EGFR
+reactome:BiochemicalReaction5447	bp3:left	reactome:Protein8102
+reactome:BiochemicalReaction5460	bp3:displayName	GAB1 phosphorylation by EGFR kinase
+reactome:BiochemicalReaction5452	bp3:displayName	SOS1-mediated nucleotide exchange of RAS (EGF:EGFR:GRB2:SOS1)
+reactome:BiochemicalReaction5475	bp3:left	reactome:Complex7563
+reactome:BiochemicalReaction5458	bp3:displayName	GRB2:GAB1 binds to phosphorylated EGFR
+reactome:BiochemicalReaction5475	bp3:right	reactome:Complex6798
+reactome:Catalysis2367	bp3:controlled	reactome:BiochemicalReaction5486
+reactome:Catalysis2369	bp3:controller	reactome:Protein19178
+reactome:Catalysis2366	bp3:controlled	reactome:BiochemicalReaction5484
+reactome:BiochemicalReaction5487	bp3:right	reactome:Complex7581
+reactome:BiochemicalReaction5464	bp3:displayName	Dephosphorylation of Gab1 by SHP2
+reactome:BiochemicalReaction5464	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5469	bp3:participantStoichiometry	reactome:Stoichiometry18947
+reactome:BiochemicalReaction5474	bp3:displayName	Phosphorylation of CBL (EGFR:GRB2:CBL)
+reactome:BiochemicalReaction5448	bp3:participantStoichiometry	reactome:Stoichiometry18901
+reactome:Catalysis2353	bp3:controller	reactome:Complex7546
+reactome:BiochemicalReaction5454	bp3:left	reactome:Complex7541
+reactome:BiochemicalReaction5486	bp3:left	reactome:SmallMolecule23
+reactome:Catalysis2363	bp3:controller	reactome:Complex7563
+reactome:Catalysis2365	bp3:controlled	reactome:BiochemicalReaction5483
+reactome:BiochemicalReaction5489	bp3:right	reactome:Complex7581
+reactome:BiochemicalReaction5460	bp3:right	reactome:Complex3915
+reactome:BiochemicalReaction5453	bp3:displayName	SHC1 binds to the phosphorylated EGF receptor:ligand complex
+reactome:BiochemicalReaction5449	bp3:left	reactome:Complex7539
+reactome:BiochemicalReaction5482	bp3:left	reactome:Complex5269
+reactome:BiochemicalReaction5465	bp3:left	reactome:Complex7547
+reactome:BiochemicalReaction5466	bp3:displayName	Dephosphorylation of PAG by SHP2
+reactome:BiochemicalReaction5485	bp3:left	reactome:Protein19174
+reactome:Catalysis2361	bp3:controlled	reactome:BiochemicalReaction5471
+reactome:BiochemicalReaction5459	bp3:left	reactome:SmallMolecule44
+reactome:BiochemicalReaction5486	bp3:participantStoichiometry	reactome:Stoichiometry19011
+reactome:BiochemicalReaction5482	bp3:left	reactome:Protein17877
+reactome:BiochemicalReaction5470	bp3:left	reactome:Complex7558
+reactome:BiochemicalReaction5466	bp3:right	reactome:Protein19162
+reactome:BiochemicalReaction5482	bp3:right	reactome:Complex7571
+reactome:Catalysis2355	bp3:controlled	reactome:BiochemicalReaction5464
+reactome:BiochemicalReaction5484	bp3:left	reactome:Complex7571
+reactome:BiochemicalReaction5460	bp3:participantStoichiometry	reactome:Stoichiometry18916
+reactome:BiochemicalReaction5468	bp3:participantStoichiometry	reactome:Stoichiometry18940
+reactome:Catalysis2365	bp3:controller	reactome:Complex7572
+reactome:Catalysis2359	bp3:controller	reactome:Complex7557
+reactome:BiochemicalReaction5488	bp3:right	reactome:Complex7582
+reactome:BiochemicalReaction5472	bp3:right	reactome:Complex5255
+reactome:BiochemicalReaction5453	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5475	bp3:displayName	Ubiquitination of stimulated EGFR (CBL:GRB2)
+reactome:BiochemicalReaction5462	bp3:displayName	PI3K converts phosphatidylinositol-4,5-bisphosphate (PIP2) to phosphatidylinositol-3,4,5-trisphosphate (PIP3)
+reactome:BiochemicalReaction5447	bp3:right	reactome:Complex7538
+reactome:BiochemicalReaction5478	bp3:left	reactome:Complex7565
+reactome:BiochemicalReaction5471	bp3:left	reactome:Protein908
+reactome:Catalysis2353	bp3:controlled	reactome:BiochemicalReaction5460
+reactome:BiochemicalReaction5449	bp3:displayName	Active PLC-gamma1 dissociates from EGFR
+reactome:Catalysis2350	bp3:controlled	reactome:BiochemicalReaction5452
+reactome:BiochemicalReaction5467	bp3:right	reactome:Protein19164
+reactome:BiochemicalReaction5468	bp3:right	reactome:Complex7557
+reactome:Catalysis2352	bp3:controller	reactome:Complex7543
+reactome:BiochemicalReaction5473	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5450	bp3:displayName	GRB2-1 binds SOS1
+reactome:BiochemicalReaction5453	bp3:left	reactome:Protein7651
+reactome:BiochemicalReaction5474	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5474	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5483	bp3:right	reactome:Complex7559
+reactome:Catalysis2368	bp3:controlled	reactome:BiochemicalReaction5488
+reactome:BiochemicalReaction5467	bp3:left	reactome:SmallMolecule23
+reactome:Catalysis2361	bp3:controller	reactome:Complex7558
+reactome:BiochemicalReaction5480	bp3:displayName	CBL escapes CDC42-mediated inhibition by down-regulating the adaptor molecule Beta-Pix
+reactome:BiochemicalReaction5456	bp3:left	reactome:Complex2400
+reactome:BiochemicalReaction5479	bp3:displayName	CIN85 dissociates from EGF:p-6Y-EGFR:CBL:Beta-Pix:CDC42:GTP:CIN85
+reactome:BiochemicalReaction5488	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5483	bp3:displayName	CBL ubiquitinates Sprouty
+reactome:BiochemicalReaction5470	bp3:left	reactome:Protein19165
+reactome:BiochemicalReaction5479	bp3:left	reactome:Complex7568
+reactome:BiochemicalReaction5461	bp3:right	reactome:Complex3914
+reactome:BiochemicalReaction5448	bp3:right	reactome:Complex7539
+reactome:BiochemicalReaction5466	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5466	bp3:left	reactome:Protein19161
+reactome:BiochemicalReaction5482	bp3:displayName	EGFR non-clathrin mediated endocytosis
+reactome:BiochemicalReaction5470	bp3:right	reactome:Complex7559
+reactome:BiochemicalReaction5479	bp3:right	reactome:Complex7569
+reactome:BiochemicalReaction5472	bp3:left	reactome:Protein7643
+reactome:Catalysis2369	bp3:controlled	reactome:BiochemicalReaction5489
+reactome:BiochemicalReaction5464	bp3:participantStoichiometry	reactome:Stoichiometry18920
+reactome:BiochemicalReaction5461	bp3:left	reactome:Complex3915
+reactome:BiochemicalReaction5489	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5469	bp3:displayName	Phosphorylation of CBL (EGFR:CBL)
+reactome:BiochemicalReaction5456	bp3:right	reactome:SmallMolecule89
+reactome:BiochemicalReaction5471	bp3:displayName	Ubiquitination of stimulated EGFR (CBL)
+reactome:BiochemicalReaction5485	bp3:right	reactome:Complex7576
+reactome:Catalysis2364	bp3:controlled	reactome:BiochemicalReaction5480
+reactome:BiochemicalReaction5452	bp3:right	reactome:SmallMolecule89
+reactome:Catalysis2363	bp3:controlled	reactome:BiochemicalReaction5475
+reactome:Catalysis2362	bp3:controlled	reactome:BiochemicalReaction5474
+reactome:BiochemicalReaction5465	bp3:right	reactome:Complex7552
+reactome:BiochemicalReaction5485	bp3:displayName	Sprouty sequesters CBL away from active EGFR
+reactome:BiochemicalReaction5452	bp3:left	reactome:Complex2400
+reactome:Catalysis2358	bp3:controlled	reactome:BiochemicalReaction5467
+reactome:BiochemicalReaction5458	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5465	bp3:right	reactome:SmallMolecule29
+reactome:Catalysis2357	bp3:controller	reactome:Complex7547
+reactome:Catalysis2349	bp3:controlled	reactome:BiochemicalReaction5448
+reactome:BiochemicalReaction5461	bp3:displayName	PI3K binds to EGF:EGFR:GRB2:GAB1
+reactome:BiochemicalReaction5476	bp3:left	reactome:Protein19170
+reactome:BiochemicalReaction5489	bp3:left	reactome:Complex7582
+reactome:BiochemicalReaction5450	bp3:left	reactome:Protein7643
+reactome:BiochemicalReaction5480	bp3:right	reactome:Complex7562
+reactome:BiochemicalReaction5474	bp3:left	reactome:Complex7562
+reactome:BiochemicalReaction5457	bp3:left	reactome:Protein8741
+reactome:Catalysis2357	bp3:controlled	reactome:BiochemicalReaction5466
+reactome:BiochemicalReaction5481	bp3:left	reactome:Complex5262
+reactome:BiochemicalReaction5456	bp3:left	reactome:SmallMolecule88
+reactome:BiochemicalReaction5467	bp3:displayName	Sustained activation of SRC kinase by SHP2
+reactome:BiochemicalReaction5468	bp3:displayName	Binding of CBL to EGFR
+reactome:BiochemicalReaction5472	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5462	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5482	bp3:left	reactome:Complex5262
+reactome:BiochemicalReaction5454	bp3:right	reactome:SmallMolecule28
+reactome:BiochemicalReaction5462	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5454	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5486	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5474	bp3:participantStoichiometry	reactome:Stoichiometry18965
+reactome:Catalysis2349	bp3:controller	reactome:Complex7538
+reactome:BiochemicalReaction5451	bp3:right	reactome:Complex7540
+reactome:BiochemicalReaction5478	bp3:displayName	Beta-Pix pushes CIN85 away from CBL
+reactome:BiochemicalReaction5455	bp3:left	reactome:Complex3477
+reactome:BiochemicalReaction5458	bp3:right	reactome:Complex7546
+reactome:BiochemicalReaction5454	bp3:participantStoichiometry	reactome:Stoichiometry18907
+reactome:BiochemicalReaction5471	bp3:left	reactome:Complex7558
+reactome:BiochemicalReaction5457	bp3:right	reactome:Complex3482
+reactome:BiochemicalReaction5488	bp3:displayName	EGFR phosphorylates EPS15
+reactome:BiochemicalReaction5480	bp3:left	reactome:Complex7569
+reactome:BiochemicalReaction5480	bp3:participantStoichiometry	reactome:Stoichiometry18983
+reactome:BiochemicalReaction5472	bp3:displayName	CBL binds to GRB2
+reactome:Catalysis2359	bp3:controlled	reactome:BiochemicalReaction5469
+reactome:Catalysis2360	bp3:controlled	reactome:BiochemicalReaction5470
+reactome:BiochemicalReaction5473	bp3:participantStoichiometry	reactome:Stoichiometry18957
+reactome:BiochemicalReaction5452	bp3:left	reactome:SmallMolecule88
+reactome:BiochemicalReaction5455	bp3:displayName	GRB2:SOS1 binds to phosphorylated SHC1 in complex with EGFR
+reactome:BiochemicalReaction5463	bp3:left	reactome:Complex3915
+reactome:BiochemicalReaction5486	bp3:right	reactome:Complex7579
+reactome:BiochemicalReaction5455	bp3:left	reactome:Complex7542
+reactome:BiochemicalReaction5464	bp3:left	reactome:Complex7547
+reactome:BiochemicalReaction5469	bp3:right	reactome:Complex7558
+reactome:BiochemicalReaction5459	bp3:right	reactome:Complex7545
+reactome:BiochemicalReaction5473	bp3:right	reactome:Complex7562
+reactome:BiochemicalReaction5467	bp3:left	reactome:Complex7555
+reactome:BiochemicalReaction5448	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5465	bp3:left	reactome:SmallMolecule23
+reactome:BiochemicalReaction5460	bp3:left	reactome:SmallMolecule27
+reactome:BiochemicalReaction5463	bp3:left	reactome:Protein7532
+reactome:Catalysis2355	bp3:controller	reactome:Complex7547
+reactome:Catalysis2351	bp3:controller	reactome:Complex7541
+reactome:Catalysis2351	bp3:controlled	reactome:BiochemicalReaction5454
+reactome:BiochemicalReaction5487	bp3:left	reactome:Complex7567
+reactome:BiochemicalReaction5477	bp3:displayName	CDC42:GTP binds CBL:Beta-Pix
+reactome:BiochemicalReaction5488	bp3:left	reactome:Complex7581
+reactome:BiochemicalReaction5484	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5452	bp3:right	reactome:Complex2401
+reactome:BiochemicalReaction5479	bp3:right	reactome:Complex5262
+reactome:BiochemicalReaction5480	bp3:left	reactome:Protein908
+reactome:BiochemicalReaction5483	bp3:left	reactome:Protein908
+reactome:Catalysis2367	bp3:controller	reactome:Protein8985
+reactome:BiochemicalReaction5469	bp3:left	reactome:Complex7557
+reactome:BiochemicalReaction5448	bp3:participantStoichiometry	reactome:Stoichiometry18898
+reactome:BiochemicalReaction5462	bp3:left	reactome:SmallMolecule45
+reactome:BiochemicalReaction5455	bp3:right	reactome:Complex7543
+reactome:BiochemicalReaction5462	bp3:right	reactome:SmallMolecule44
+reactome:BiochemicalReaction5486	bp3:displayName	PTPN12 dephosphorylates EGFR at Y1172 (Y1148)
+reactome:Catalysis2368	bp3:controller	reactome:Complex7581
+reactome:BiochemicalReaction5481	bp3:left	reactome:Complex7563
+reactome:BiochemicalReaction5477	bp3:right	reactome:Complex7566
+reactome:Catalysis2354	bp3:controlled	reactome:BiochemicalReaction5462
+reactome:BiochemicalReaction5468	bp3:left	reactome:Complex3916
+reactome:BiochemicalReaction5476	bp3:left	reactome:Protein8744
+reactome:BiochemicalReaction5451	bp3:left	reactome:Complex3916
+reactome:Catalysis2360	bp3:controller	reactome:Complex7558
+reactome:BiochemicalReaction5487	bp3:left	reactome:Protein17884
+reactome:BiochemicalReaction5464	bp3:right	reactome:SmallMolecule29
+reactome:BiochemicalReaction5476	bp3:displayName	Sprouty lures CBL away from EGFR
+reactome:PathwayStep6852	bp3:nextStep	reactome:PathwayStep6865
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep7272
+reactome:PathwayStep6841	bp3:nextStep	reactome:PathwayStep6840
+reactome:PathwayStep6845	bp3:nextStep	reactome:PathwayStep6847
+reactome:PathwayStep6855	bp3:nextStep	reactome:PathwayStep13151
+reactome:PathwayStep6843	bp3:nextStep	reactome:PathwayStep6844
+reactome:PathwayStep6836	bp3:nextStep	reactome:PathwayStep6837
+reactome:PathwayStep6852	bp3:nextStep	reactome:PathwayStep6853
+reactome:PathwayStep6864	bp3:nextStep	reactome:PathwayStep6861
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep6831
+reactome:PathwayStep6831	bp3:nextStep	reactome:PathwayStep6832
+reactome:PathwayStep6839	bp3:nextStep	reactome:PathwayStep6908
+reactome:PathwayStep6844	bp3:nextStep	reactome:PathwayStep6841
+reactome:PathwayStep6843	bp3:nextStep	reactome:PathwayStep9104
+reactome:PathwayStep6826	bp3:nextStep	reactome:PathwayStep6827
+reactome:PathwayStep6870	bp3:nextStep	reactome:PathwayStep6871
+reactome:PathwayStep6865	bp3:nextStep	reactome:PathwayStep6867
+reactome:PathwayStep6862	bp3:nextStep	reactome:PathwayStep6863
+reactome:PathwayStep6842	bp3:nextStep	reactome:PathwayStep6845
+reactome:PathwayStep6851	bp3:nextStep	reactome:PathwayStep6852
+reactome:PathwayStep6828	bp3:nextStep	reactome:PathwayStep7413
+reactome:PathwayStep6835	bp3:nextStep	reactome:PathwayStep6836
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep7584
+reactome:PathwayStep6839	bp3:nextStep	reactome:PathwayStep6841
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep13154
+reactome:PathwayStep6856	bp3:nextStep	reactome:PathwayStep6857
+reactome:PathwayStep6834	bp3:nextStep	reactome:PathwayStep6835
+reactome:PathwayStep6857	bp3:nextStep	reactome:PathwayStep6858
+reactome:PathwayStep6848	bp3:nextStep	reactome:PathwayStep6849
+reactome:PathwayStep6831	bp3:nextStep	reactome:PathwayStep8993
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep6836
+reactome:PathwayStep6857	bp3:nextStep	reactome:PathwayStep6864
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep7289
+reactome:PathwayStep6836	bp3:nextStep	reactome:PathwayStep8993
+reactome:PathwayStep6842	bp3:nextStep	reactome:PathwayStep6843
+reactome:PathwayStep6864	bp3:nextStep	reactome:PathwayStep6870
+reactome:PathwayStep6830	bp3:nextStep	reactome:PathwayStep7082
+reactome:PathwayStep6840	bp3:nextStep	reactome:PathwayStep6842
+reactome:PathwayStep6839	bp3:nextStep	reactome:PathwayStep6840
+reactome:PathwayStep6861	bp3:nextStep	reactome:PathwayStep6862
+reactome:PathwayStep6865	bp3:nextStep	reactome:PathwayStep6868
+reactome:PathwayStep6827	bp3:nextStep	reactome:PathwayStep6828
+reactome:PathwayStep6855	bp3:nextStep	reactome:PathwayStep6856
+reactome:PathwayStep6845	bp3:nextStep	reactome:PathwayStep6846
+reactome:PathwayStep6863	bp3:nextStep	reactome:PathwayStep6857
+reactome:PathwayStep6871	bp3:nextStep	reactome:PathwayStep6872
+reactome:PathwayStep6845	bp3:nextStep	reactome:PathwayStep6848
+reactome:PathwayStep6852	bp3:nextStep	reactome:PathwayStep6854
+reactome:PathwayStep6845	bp3:nextStep	reactome:PathwayStep6849
